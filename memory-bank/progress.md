@@ -3,6 +3,7 @@
 ## 완료
 - [x] 저장소 초기 구조 설정 (README, CLAUDE.md, memory-bank)
 - [x] 사용자 기본 정보 확인 (등급 없음, 노베이스, 목표 IH, 시험 다음 달)
+- [x] 오픽노잼 유튜브 강의 8편 트랜스크립트 분석 → studyNotes.md에 전략 정리 (RP 4-step, Description 4-step, Habit 4-step, IH vs AL 비교, 콤보셋 전환 전략, 실전 Q&A 팁 등)
 
 ## 진행 중
 - [ ] 없음
