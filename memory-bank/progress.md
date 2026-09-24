@@ -5,6 +5,10 @@
 - [x] 사용자 기본 정보 확인 (등급 없음, 노베이스, 목표 IH, 시험 다음 달)
 - [x] 오픽노잼 유튜브 영상(100문장 문형 드릴) 스크립트를 5개 주제(Cafes/Transportation/Recycling/Technology/Free Time)로 정리하여 `topics/` 아래 각 주제별 `expressions.md` 생성
 - [x] 위 100문장을 학습용 웹 대시보드(Artifact)로 제작 — 주제별 체크리스트(암기 진행률 저장) + 랜덤 낭독 연습 기능
+- [x] 시험 날짜 확정 (2026-10-14 저녁) 반영, 대시보드에 D-day 배너 추가
+- [x] 대시보드에 친구 AL 필기노트 기반 "AL 전략 노트" 탭 추가
+- [x] 시험 전까지 주 3회 학습 진행 체크 잔소리 리마인더 루틴 설정 (trig_01RimkCtquYYkmHUojtEDQTA)
+- [x] 서베이 신분/난이도 선택 관련 "날먹 IH" 전략 답변 (studyNotes.md 참고)
 
 ## 진행 중
 - [ ] 없음
