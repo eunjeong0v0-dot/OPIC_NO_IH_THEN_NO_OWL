@@ -12,27 +12,31 @@
 
 ## Q1. "Tell me about the place where you live. What does it look like?"
 
-So, I live alone in my apartment. [a: Intro]
+So, um, I live alone in my apartment. [a: Intro / b: filler "um"]
 
-Um, it's not that big, but it has everything I need — there's a living room combined with the kitchen, one bedroom, and one bathroom. Oh, and I also have a terrace and a balcony, which I really like. [d: Description]
+It's not that big, but, you know, it has everything I need — there's a living room combined with the kitchen, one bedroom, and, uh, one bathroom. [d: Description / b: filler "you know", "uh"]
 
-I mean, it's just a small space, but it's more than enough for one person. [b: filler + detail word "just"]
+Oh, and I also have a terrace and a balcony, which I really like. [b: filler "oh"]
 
-That's pretty much what my place looks like. [a: Conclusion]
+I mean, it's just a small space, but, um, it's more than enough for one person. [b: filler "I mean", "um" + detail word "just"]
+
+So yeah, that's pretty much what my place looks like. [a: Conclusion / b: filler "so yeah"]
 
 ---
 
 ## Q2. "Which room do you like the most, and why?"
 
-If you ask me, my favorite room is definitely my bedroom. [a: Main Point]
+Um, if you ask me, my favorite room is definitely my bedroom. [a: Main Point / b: filler "um"]
 
-You know why? Because of my bed. I just love lying down. Like, I can study lying down, I can watch TV lying down, I can literally do anything lying down. [c: AL표현 — 반복구조로 강조]
+You know why? Because of my bed. I just, you know, love lying down. Like, I can study lying down, um, I can watch TV lying down, and I can literally do anything lying down. [c: AL표현 — 반복구조로 강조 / b: filler "you know", "like", "um"]
 
-Whenever I'm outside, I always find myself wanting to go home and just lie down on my bed. [b: filler "just", detail]
+And, uh, whenever I'm outside, I always find myself wanting to go home and just lie down on my bed. [b: filler "and uh", "just"]
 
-And um, especially at night, when I turn on my mood light and lie on my bed, it feels so cozy. My bed is super soft and it's actually pretty huge, so it's like my own little world. [c: AL표현 — Simile]
+And um, especially at night, when I turn on my mood light and, you know, lie on my bed, it just feels so cozy. [b: filler "um", "you know", "just"]
 
-That's why my bedroom is my favorite place in my apartment. That's about it. [a: Conclusion]
+My bed is super soft and, I mean, it's actually pretty huge, so it's like my own little world. [c: AL표현 — Simile / b: filler "I mean"]
+
+So, that's why my bedroom is my favorite place in my apartment. That's about it. [a: Conclusion / b: filler "so"]
 
 ---
 
