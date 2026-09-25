@@ -3,13 +3,14 @@
 ※ 채점에는 들어가지 않는 항목이라 가볍게 준비. 오순 님 실제 이야기 기반.
 
 ## 정보
-- 이름: 오순 (Sun)
+- 실명: 곽은정 (오픽에서는 사용 안 함)
+- 오픽용 이름: 오순, 영어 표기 Ocun
 - 요즘 빠져있는 것: 다이어트, 외모 꾸미기
 - 최근 루틴: 아침에 일어나서 물 한 잔 마시기
 
 ## 스크립트
 
-Hi, I'm Sun. [a: Intro]
+Hi, I'm Ocun. [a: Intro]
 
 Uh, actually, I don't really know what to tell you about myself, but um, these days I'm really into dieting and, you know, taking care of my appearance a little bit. [a: Main Point]
 
