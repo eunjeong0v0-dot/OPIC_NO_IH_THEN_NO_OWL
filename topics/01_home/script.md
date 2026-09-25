@@ -2,24 +2,29 @@
 
 구조: 사는 곳 소개 > 방 종류 > 가장 좋아하는 방 > 이유 > 느낌 [d: Structure]
 
-## 질문 (콤보셋 중 ①+② 합친 버전)
-- Q1: "Tell me about the place where you live. What does it look like?"
-- Q2: "Which room do you like the most, and why?"
-- (아래 스크립트는 두 질문을 한 번에 묻는 경우에 쓰는 통합 답변. 따로 나오면 단락 나눠서 사용)
-
 ## 정보 (오순 님 실제 집)
 - 구조: 거실 겸 부엌 1, 방 1, 화장실 1, 테라스/베란다 있음
 - 가장 좋아하는 공간: 방 (침대 때문)
 - 이유: 눕는 걸 좋아함 — 누워서 공부, TV시청 등 뭐든 가능. 밖에 있으면 집 가서 눕고 싶음
 - 느낌: 저녁에 무드등 켜고 침대에 있으면 아늑함. 침대는 푹신하고 큼
 
-## 스크립트
+---
+
+## Q1. "Tell me about the place where you live. What does it look like?"
 
 So, I live alone in my apartment. [a: Intro]
 
 Um, it's not that big, but it has everything I need — there's a living room combined with the kitchen, one bedroom, and one bathroom. Oh, and I also have a terrace and a balcony, which I really like. [d: Description]
 
-But if you ask me, my favorite room is definitely my bedroom. [a: Main Point]
+I mean, it's just a small space, but it's more than enough for one person. [b: filler + detail word "just"]
+
+That's pretty much what my place looks like. [a: Conclusion]
+
+---
+
+## Q2. "Which room do you like the most, and why?"
+
+If you ask me, my favorite room is definitely my bedroom. [a: Main Point]
 
 You know why? Because of my bed. I just love lying down. Like, I can study lying down, I can watch TV lying down, I can literally do anything lying down. [c: AL표현 — 반복구조로 강조]
 
@@ -29,8 +34,11 @@ And um, especially at night, when I turn on my mood light and lie on my bed, it 
 
 That's why my bedroom is my favorite place in my apartment. That's about it. [a: Conclusion]
 
+---
+
 ## 포인트
-- Main point("방이 제일 좋다")를 초반에 바로 제시
+- Q1은 짧고 담백하게 구조만 소개, Q2에서 감정/디테일을 몰아서 표현 (밸런스)
+- Main point("방이 제일 좋다")를 Q2 초반에 바로 제시
 - "lying down"을 반복해서 강조하는 구조 (공부도/TV도/뭐든 누워서) — 리듬감 있고 외우기도 쉬움
 - "it's like my own little world" — simile로 감정 표현
-- 결론은 "That's about it"으로 자연스럽게 마무리
+- 두 질문 다 "That's pretty much..." / "That's about it"으로 마무리 패턴 통일 → 외우기 쉬움
