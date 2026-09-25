@@ -2,6 +2,10 @@
 
 ※ 채점에는 들어가지 않는 항목이라 가볍게 준비. 오순 님 실제 이야기 기반.
 
+## 질문
+"Let's start the interview now. Tell me a little bit about yourself."
+(시험 맨 처음에 나오는 오리엔테이션성 질문, 보통 채점 대상 아님)
+
 ## 정보
 - 실명: 곽은정 (오픽에서는 사용 안 함)
 - 오픽용 이름: 오순, 영어 표기 Ocun

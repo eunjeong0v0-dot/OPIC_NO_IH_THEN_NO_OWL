@@ -2,6 +2,11 @@
 
 구조: 사는 곳 소개 > 방 종류 > 가장 좋아하는 방 > 이유 > 느낌 [d: Structure]
 
+## 질문 (콤보셋 중 ①+② 합친 버전)
+- Q1: "Tell me about the place where you live. What does it look like?"
+- Q2: "Which room do you like the most, and why?"
+- (아래 스크립트는 두 질문을 한 번에 묻는 경우에 쓰는 통합 답변. 따로 나오면 단락 나눠서 사용)
+
 ## 정보 (오순 님 실제 집)
 - 구조: 거실 겸 부엌 1, 방 1, 화장실 1, 테라스/베란다 있음
 - 가장 좋아하는 공간: 방 (침대 때문)
