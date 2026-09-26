@@ -8,6 +8,10 @@
   - 바다 색깔이 초록색/파랑색으로 계속 달라 보이는 게 매력적
   - 모래가 빵처럼 갈색빛을 띠는 게 마음에 듦
   - 보고 있으면 평화로워짐
+- 가는 빈도: 1년에 1번 정도
+- 함께 가는 사람: 남자친구
+- 이동 수단: KTX 또는 차
+- 가서 하는 일: 바다 보이는 예쁜 카페에서 구경하기
 
 ---
 
@@ -41,8 +45,27 @@ So yeah, that's the last time I went to the beach, and it was such a nice trip. 
 
 ---
 
+## Q3. "How often do you go to the beach? Who do you usually go with, and what do you do there?" [Habit]
+
+Um, I'd say I go to the beach, like, once a year, maybe. [a: Intro / b: filler "like"]
+
+I usually go with my boyfriend, and, uh, we either take the KTX or just drive there, depending on the weather. [d: Habit — 함께 가는 사람 + 이동수단]
+
+And, you know, once we get there, we don't really swim or anything. [b: filler "you know"]
+
+Instead, we usually just find this, um, pretty cafe near the beach, and we sit there and look at the view. [c: AL표현 — "instead"로 전환]
+
+I mean, we just order some coffee and, like, spend hours just staring at the sea. [b: filler "I mean", "like" + detail word "just"]
+
+It's such a simple thing, but, um, it's honestly one of my favorite ways to spend time with him. [b: filler "um"]
+
+So yeah, that's pretty much how we spend our time whenever we go to the beach. [a: Conclusion]
+
+---
+
 ## 포인트
 - Main point("경치가 예쁘다")를 초반에 바로 던지고, 색깔 변화/모래색을 디테일로 전개
 - "like fresh bread" simile로 감각적인 묘사 추가 (AL 표현)
 - Q1(Description)과 Q2(Past Experience)에서 같은 디테일(바다색/모래색)을 재활용해서 암기 부담 최소화
+- Q3(Habit)은 main point 없이 "빈도 → 함께가는 사람 → 하는 일(카페에서 구경)" 순서로 디테일만 이어감
 - 필러(um, you know, I mean, so)를 문장 중간중간 배치
