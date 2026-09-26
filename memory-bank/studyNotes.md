@@ -30,7 +30,7 @@
 **정보**: 거실 겸 부엌 1 + 방 1 + 화장실 1 + 테라스/베란다. 제일 좋아하는 공간은 방(침대 때문 — 눕는 거 좋아함). 예전 집은 침대·냉장고 다 작아서 집에 오래 있기 싫었는데, 지금은 큰 냉장고·큰 침대라 편해서 집순이가 됨. 단점은 가끔 옆집에서 시끄럽게 노래 부르는 것, 그거 빼곤 완벽함.
 
 **Q1. Description — "Tell me about the place where you live."**
-So, um, I live alone in my apartment. It's not that big, but, you know, it has everything I need — there's a living room combined with the kitchen, one bedroom, and, uh, one bathroom. Oh, and I also have a terrace and a balcony, which I really like. I mean, it's just a small space, but, um, it's more than enough for one person. So yeah, that's pretty much what my place looks like.
+So, um, I live alone in a small apartment, but it's actually really cozy. You know, the living room and kitchen are in one room together, and then there's one bedroom and one bathroom. I mean, it's pretty small, but it's enough for me. Oh, and there's also a little terrace and balcony, which I really like — it gets a lot of sunlight in the morning, so that's nice. So yeah, it's small, but it feels really warm and comfortable, like my own little space. That's pretty much what my place looks like.
 
 **Q2. Habit — "Which room do you like the most, and why?"**
 Um, if you ask me, my favorite room is definitely my bedroom. You know why? Because of my bed. I just, you know, love lying down. Like, I can study lying down, um, I can watch TV lying down, and I can literally do anything lying down. And, uh, whenever I'm outside, I always find myself wanting to go home and just lie down on my bed. And um, especially at night, when I turn on my mood light and, you know, lie on my bed, it just feels so cozy. My bed is super soft and, I mean, it's actually pretty huge, so it's like my own little world. So, that's why my bedroom is my favorite place in my apartment. That's about it.
@@ -59,6 +59,8 @@ So, um, in the past, my place was actually really small — like, my bed was sma
 - 스크립트는 오순 님의 실제 이야기를 기반으로 작성 (암기 부담을 줄이고 진짜처럼 말할 수 있도록)
 - 각 답변에 위 4유형 골격 + small words/filler + direct quotation/simile를 최소 1개 이상 녹여서 AL급 디테일 확보
 - 쉬운 단어와 짧은 문장 위주로, 실수 없이 끝까지 끊김 없이 말하는 것을 최우선으로 함
+- ⚠️ **오순 님은 본인 어휘력이 낮다고 직접 밝힘 (2026-09-26) — 앞으로 모든 스크립트는 반드시 쉬운/기초 단어 위주로 작성할 것.** "open-concept", "conveniently within reach", "pours in" 같은 고급 어휘·숙어는 쓰지 말 것. small words(just, really, pretty much, kind of 등)와 기본 형용사(nice, warm, comfortable, small, big, cozy 등) 중심으로 문장 구성. 이 규칙은 예외 없이 항상 적용
+  - 오순 님이 "쉬운 단어로 IH를 받을 수 있는지" 확인 질문함 → **쉬운 단어 = 감점 아님.** 강의 요약 3번("짧은 문장만으로 IH 받기")에 따르면 어휘 난이도보다 **막힘없는 유창함 + 문법 정확도 + 감정 표현**이 핵심. 쉬운 단어를 안 틀리고 필러 섞어 끊김없이 말하는 게 오히려 IH의 정석 전략임
 
 ## 서베이 & 난이도 선택 전략 ("날먹 IH" 목표, 커뮤니티 통설 기준 — 확정적 보장은 아님)
 

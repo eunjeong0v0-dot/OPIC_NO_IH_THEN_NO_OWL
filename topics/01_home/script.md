@@ -15,15 +15,15 @@
 
 ## Q1. "Tell me about the place where you live. What does it look like?"
 
-So, um, I live alone in my apartment. [a: Intro / b: filler "um"]
+So, um, I live alone in a small apartment, but it's actually really cozy. [a: Intro / b: filler "um"]
 
-It's not that big, but, you know, it has everything I need — there's a living room combined with the kitchen, one bedroom, and, uh, one bathroom. [d: Description / b: filler "you know", "uh"]
+You know, the living room and kitchen are in one room together, and then there's one bedroom and one bathroom. [d: Description / b: filler "you know"]
 
-Oh, and I also have a terrace and a balcony, which I really like. [b: filler "oh"]
+I mean, it's pretty small, but it's enough for me. [b: filler "I mean"]
 
-I mean, it's just a small space, but, um, it's more than enough for one person. [b: filler "I mean", "um" + detail word "just"]
+Oh, and there's also a little terrace and balcony, which I really like — it gets a lot of sunlight in the morning, so that's nice. [b: filler "oh" + 느낌 표현 추가]
 
-So yeah, that's pretty much what my place looks like. [a: Conclusion / b: filler "so yeah"]
+So yeah, it's small, but it feels really warm and comfortable, like my own little space. That's pretty much what my place looks like. [c: Simile — 쉬운 단어로 / a: Conclusion / b: filler "so yeah"]
 
 ---
 
