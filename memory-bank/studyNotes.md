@@ -13,7 +13,7 @@
 - **Comparison**: 과거/현재를 비교할 때 비교 단어를 남발하지 말고, 각각 **순수 현재형/과거형**으로 담백하게 설명
 
 ### 콤보셋 주제별 답변 골격 예시 (필기노트 목차 기준)
-- 사는 곳: 집 묘사 / 좋아하는 방 / 과거-현재 집 비교
+- 사는 곳: 집 묘사 / 좋아하는 방 / 과거-현재 집 비교 — ✅ 완성 (전체 스크립트는 `topics/01_home/script.md` 참고)
 - 동네 및 이웃: 동네 소개 / 이웃 소개 / 동네에서 겪은 경험
 - 영화관람: 좋아하는 장르 / 좋아하는 배우 / 기억에 남는 관람 경험
 - 공연·콘서트: 좋아하는 공연 / 기억에 남는 경험 / 자주 가는 공연장
@@ -23,6 +23,23 @@
 - 음악 감상: 좋아하는 가수 / 감상 경향 / 장르 비교
 - 악기 연주: 연주 경향 / 시작 계기와 변화 / 좋아하는 음악가
 - 조깅&걷기: 좋아하는 장소 / 다른 운동과 비교 / 흥미 계기와 변화 / 다친 경험
+
+### ✅ 완성된 콤보셋 스크립트 — 사는 곳 (Home)
+※ 오순 님 실제 집 기준. 원본: `topics/01_home/script.md` / 대시보드 "Home (사는 곳)" 탭
+
+**정보**: 거실 겸 부엌 1 + 방 1 + 화장실 1 + 테라스/베란다. 제일 좋아하는 공간은 방(침대 때문 — 눕는 거 좋아함). 예전 집은 침대·냉장고 다 작아서 집에 오래 있기 싫었는데, 지금은 큰 냉장고·큰 침대라 편해서 집순이가 됨. 단점은 가끔 옆집에서 시끄럽게 노래 부르는 것, 그거 빼곤 완벽함.
+
+**Q1. Description — "Tell me about the place where you live."**
+So, um, I live alone in my apartment. It's not that big, but, you know, it has everything I need — there's a living room combined with the kitchen, one bedroom, and, uh, one bathroom. Oh, and I also have a terrace and a balcony, which I really like. I mean, it's just a small space, but, um, it's more than enough for one person. So yeah, that's pretty much what my place looks like.
+
+**Q2. Habit — "Which room do you like the most, and why?"**
+Um, if you ask me, my favorite room is definitely my bedroom. You know why? Because of my bed. I just, you know, love lying down. Like, I can study lying down, um, I can watch TV lying down, and I can literally do anything lying down. And, uh, whenever I'm outside, I always find myself wanting to go home and just lie down on my bed. And um, especially at night, when I turn on my mood light and, you know, lie on my bed, it just feels so cozy. My bed is super soft and, I mean, it's actually pretty huge, so it's like my own little world. So, that's why my bedroom is my favorite place in my apartment. That's about it.
+
+**Q2.5 (보너스) Past Experience — 옆집 소음 에피소드**
+Oh, actually, there's one small downside — um, sometimes my neighbor next door sings really loudly, like, out of nowhere. I remember one night I was just about to fall asleep, and, you know, I could hear this random singing through the wall. I mean, it was kind of funny, but also pretty annoying at the time. But honestly, other than that, my place is pretty much perfect. That's about it.
+
+**Q3. Comparison — 예전 집 vs 지금 집**
+So, um, in the past, my place was actually really small — like, my bed was small, my fridge was small, everything was just tiny. And, you know, because of that, I actually didn't really like staying home for long. I mean, I'd just go out as much as I could. But, uh, these days it's totally different — I have a bigger fridge and a bigger bed now, and it's just so much more comfortable. Um, I literally just want to lie around and, you know, do nothing at home. So yeah, I guess you could say I've become a total homebody these days. That's about it.
 
 ### 자연스러움을 위한 디테일 표현
 - Small words: just, really, pretty (much), even, like, a little bit, kind of, sort of, a lot of, definitely
