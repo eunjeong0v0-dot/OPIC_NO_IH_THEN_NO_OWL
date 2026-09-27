@@ -14,7 +14,7 @@
 
 Honestly, when I'm on vacation and staying home, the best part is that nobody bothers me, and I can just sleep as much as I want and wake up whenever I feel like it. [a: Intro + Main Point — 앞에서 바로 던지기]
 
-I mean, other than that, I usually just watch YouTube, do a little housework, or just lie in bed most of the time. [b: filler "I mean" — 디테일1]
+I mean, other than that, I usually just watch YouTube or do a little housework. [b: filler "I mean" — 디테일1, "lie in bed" 중복 제거]
 
 And YouTube kind of has everything I'm curious about — like travel videos, random trivia, even stuff about the economy, you know? So whatever I'm in the mood for, it's just there. [c: AL표현 — 디테일2]
 
@@ -23,7 +23,7 @@ You know, sometimes I actually sleep so much that my head starts to hurt, ha. [b
 Overall, that's why staying home just feels so comfortable to me, and that's pretty much how I spend my vacation. [a: Conclusion — "Overall"로 메인포인트 복귀]
 
 **한글 해석**
-솔직히, 휴가 때 집에 있으면 제일 좋은 건 아무도 저를 방해 안 하고, 자고 싶은 만큼 자고 일어나고 싶을 때 일어나면 된다는 거예요. 그거 말고는 보통 유튜브 보거나 집안일하거나, 그냥 침대에 누워있는 편이에요. 유튜브에는 제가 궁금해하는 거의 모든 게 다 있어요 — 여행 영상, 잡다한 상식, 심지어 경제 얘기까지요. 그래서 뭐가 됐든 보고 싶은 게 다 있어요. 가끔은 너무 많이 자서 머리가 아플 때도 있어요, ㅋㅋ. 아무튼, 그래서 집에 있는 게 그렇게 편하게 느껴지는 거고, 저는 휴가 때 보통 이렇게 시간을 보내요.
+솔직히, 휴가 때 집에 있으면 제일 좋은 건 아무도 저를 방해 안 하고, 자고 싶은 만큼 자고 일어나고 싶을 때 일어나면 된다는 거예요. 그거 말고는 보통 유튜브 보거나 집안일하는 편이에요. 유튜브에는 제가 궁금해하는 거의 모든 게 다 있어요 — 여행 영상, 잡다한 상식, 심지어 경제 얘기까지요. 그래서 뭐가 됐든 보고 싶은 게 다 있어요. 가끔은 너무 많이 자서 머리가 아플 때도 있어요, ㅋㅋ. 아무튼, 그래서 집에 있는 게 그렇게 편하게 느껴지는 거고, 저는 휴가 때 보통 이렇게 시간을 보내요.
 
 ---
 
