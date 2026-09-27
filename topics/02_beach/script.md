@@ -8,7 +8,7 @@
   - 바다 색깔이 초록색/파랑색으로 계속 달라 보이는 게 매력적
   - 모래가 빵처럼 갈색빛을 띠는 게 마음에 듦
   - 보고 있으면 평화로워짐
-- 가는 빈도: 1년에 1번 정도
+- 가는 빈도: 한 달에 1번 정도
 - 함께 가는 사람: 남자친구
 - 이동 수단: KTX 또는 차
 - 가서 하는 일(Habit용): 어릴 때는 수영했지만 지금은 안 함 — 남자친구랑 책/할 일 챙겨가서 오션뷰 카페에서 각자 공부/일함. 머리 맑아지고 기분 좋아짐
@@ -66,7 +66,7 @@ Anyway, that's the story of the time the sea took my new shoe. [a: Conclusion �
 
 🎯 메인포인트: 오션뷰 카페에서 책 읽거나 공부하면 머리가 맑아지고 기분이 좋아짐
 
-Honestly, I'd say I go to the beach, like, once a year, maybe. [a: Intro / b: filler "like"]
+Honestly, I'd say I go to the beach, like, once a month, maybe. [a: Intro / b: filler "like"]
 
 I usually go with my boyfriend, and, uh, we either take the KTX or just drive there, depending on the weather. [d: Habit — 함께 가는 사람 + 이동수단]
 
@@ -83,7 +83,7 @@ And, so, it puts me in a really good mood too, every single time. [b: filler "so
 Overall, that's pretty much how we spend our time whenever we go to the beach. [a: Conclusion — "Overall"로 다양화]
 
 **한글 해석**
-솔직히, 저는 해변에 한 1년에 한 번 정도 가는 것 같아요. 보통 남자친구랑 같이 가고, 날씨에 따라 KTX를 타거나 그냥 차로 가요. 어릴 때는 해변 가면 수영을 진짜 많이 했는데, 음, 요즘은 그렇게 안 해요. 대신 저랑 남자친구는 보통 책이나 할 일을 챙겨가요. 바다 보이는 진짜 예쁜 카페를 찾아서, 각자 앉아서 자기 할 일을 해요 — 저는 책을 읽거나 일을 하고, 남자친구도 자기 할 걸 해요. 좀 웃기게 들릴 수도 있는데, 예쁜 오션뷰 카페에 있으면 머리가 되게 맑아지는 느낌이에요. 그리고 기분도 매번 되게 좋아져요. 아무튼, 저희가 해변 가면 보통 이렇게 시간을 보내요.
+솔직히, 저는 해변에 한 달에 한 번 정도 가는 것 같아요. 보통 남자친구랑 같이 가고, 날씨에 따라 KTX를 타거나 그냥 차로 가요. 어릴 때는 해변 가면 수영을 진짜 많이 했는데, 음, 요즘은 그렇게 안 해요. 대신 저랑 남자친구는 보통 책이나 할 일을 챙겨가요. 바다 보이는 진짜 예쁜 카페를 찾아서, 각자 앉아서 자기 할 일을 해요 — 저는 책을 읽거나 일을 하고, 남자친구도 자기 할 걸 해요. 좀 웃기게 들릴 수도 있는데, 예쁜 오션뷰 카페에 있으면 머리가 되게 맑아지는 느낌이에요. 그리고 기분도 매번 되게 좋아져요. 아무튼, 저희가 해변 가면 보통 이렇게 시간을 보내요.
 
 ---
 
