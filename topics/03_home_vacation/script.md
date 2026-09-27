@@ -20,10 +20,10 @@ I mean, other than sleeping, I usually just watch YouTube or do a little housewo
 
 And YouTube kind of has everything I'm curious about — like travel videos, random trivia, even stuff about the economy, you know? So whatever I'm in the mood for, it's just there. [c: AL표현 — 디테일2]
 
-Overall, that's why staying home just feels so comfortable to me, and that's pretty much how I spend my vacation. [a: Conclusion — "Overall"로 메인포인트 복귀]
+Overall, that's why I love spending my vacation at home. [a: Conclusion — "Overall"로 메인포인트 복귀, 사용자 요청으로 문장 단순화]
 
 **한글 해석**
-솔직히, 휴가 때 집에 있으면 제일 좋은 건 아무도 저를 방해 안 하고, 자고 싶은 만큼 자고 일어나고 싶을 때 일어나면 된다는 거예요. 가끔은 너무 많이 자서 머리가 아플 때도 있어요, ㅋㅋ. 자는 거 말고는 보통 유튜브 보거나 집안일하는 편이에요. 유튜브에는 제가 궁금해하는 거의 모든 게 다 있어요 — 여행 영상, 잡다한 상식, 심지어 경제 얘기까지요. 그래서 뭐가 됐든 보고 싶은 게 다 있어요. 아무튼, 그래서 집에 있는 게 그렇게 편하게 느껴지는 거고, 저는 휴가 때 보통 이렇게 시간을 보내요.
+솔직히, 휴가 때 집에 있으면 제일 좋은 건 아무도 저를 방해 안 하고, 자고 싶은 만큼 자고 일어나고 싶을 때 일어나면 된다는 거예요. 가끔은 너무 많이 자서 머리가 아플 때도 있어요, ㅋㅋ. 자는 거 말고는 보통 유튜브 보거나 집안일하는 편이에요. 유튜브에는 제가 궁금해하는 거의 모든 게 다 있어요 — 여행 영상, 잡다한 상식, 심지어 경제 얘기까지요. 그래서 뭐가 됐든 보고 싶은 게 다 있어요. 아무튼, 그래서 저는 집에서 휴가 보내는 걸 좋아해요.
 
 ---
 
