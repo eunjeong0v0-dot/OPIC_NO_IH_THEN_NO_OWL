@@ -49,6 +49,7 @@ So, um, in the past, my place was actually really small — like, my bed was sma
 - Direct quotation 활용 (예: 엄마가 "Rachel, clean your room!" 라고 했다) — Past Experience에서 특히 효과적
 - Simile(비유) 사용 — 예: "This place makes me feel like I'm home", "It's like a playground for adults"
 - 결론은 "That's it/That's all"보다 "That's about it"이 더 자연스러움. 단, 같은 콤보셋 안 여러 답변에서 **매번 똑같이 반복하면 오히려 스크립트처럼 들림** — 답변마다 다른 자연스러운 마무리 문장을 섞어 쓸 것
+- ⚠️ (2026-09-28 추가) **오프너(첫 필러)도 다양화 필수** — "Um,"으로 콤보셋 답변마다 계속 시작하면 클로징 반복만큼이나 티가 남. Oh, / So, / Honestly, / Well, / Anyway, 등으로 답변마다 다르게 시작할 것
 - "Moreover/Furthermore/In addition"은 구어체에서 매우 어색함 → 쓰지 말 것
 - "At that time"은 한국인이 자주 쓰는 어색한 표현 → 주의
 
