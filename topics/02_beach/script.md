@@ -12,7 +12,7 @@
 - 함께 가는 사람: 남자친구
 - 이동 수단: KTX 또는 차
 - 가서 하는 일: 바다 보이는 예쁜 카페에서 구경하기
-- 기억에 남는 경험(Past Experience용): 이번 여름 경포대에서 남자친구랑 해변가 걷다가 파도에 신발/바지가 갑자기 젖음 (Q1과 내용 안 겹치게 새로 작성, 2026-09-28)
+- 기억에 남는 경험(Past Experience용): 이번 여름 경포대에서 엄마랑 해변가 걷다가 파도에 새로 산 신발 한 짝이 떠내려감 (Q1과 내용 안 겹치게 작성, 2026-09-28 최종 수정)
 
 ---
 
@@ -39,24 +39,24 @@ That's why Gyeongpodae is my favorite beach. That's about it. [a: Conclusion]
 
 ## Q2. "When was the last time you went to the beach? Tell me about that experience." [Past Experience]
 
-🎯 메인포인트: 해변 걷다가 파도에 갑자기 옷이 다 젖었던 경험
+🎯 메인포인트: 새로 산 신발이 파도에 떠내려간 경험
 
-So, this summer, I went to Gyeongpodae with my boyfriend, and, um, something kind of funny happened. [a: Intro — 언제/어디서/누구와]
+So, this summer, I went to Gyeongpodae with my mom, and, um, something kind of funny happened. [a: Intro — 언제/어디서/누구와]
 
-We were just walking along the beach, close to the water, and, you know, we were just talking and having fun. [d: Past Experience — 상황 설정]
+I was wearing these new shoes I'd just bought, and, you know, we were just walking along the beach, close to the water. [d: Past Experience — 상황 설정, 새 신발 강조]
 
-But then, uh, out of nowhere, a huge wave just came in, and it totally soaked my shoes and pants. [c: AL표현 — 갑작스러운 상황 강조]
+But then, uh, out of nowhere, a huge wave just came in, and it actually swept one of my shoes right off my foot. [c: AL표현 — 갑작스러운 상황 강조]
 
-I remember my boyfriend just looked at me and said, "Oh no, are you okay?" but, um, he was also kind of laughing at the same time. [c: AL표현 — Direct quotation]
+I remember my mom just looked at me and said, "Oh my gosh, your shoe!" and we both just ran after it into the water. [c: AL표현 — Direct quotation]
 
-And, I mean, I was so surprised that I just stood there for a second, not knowing what to do. [b: filler "I mean", detail]
+And, I mean, we tried so hard to catch it, but, um, it just kept floating further away. [b: filler "I mean", detail]
 
-Honestly, my shoes were completely wet for the rest of the day, but, um, it was actually kind of a funny memory now. [b: filler "honestly", "um"]
+Honestly, my brand new shoe was just gone, but, um, it was actually kind of a funny memory now. [b: filler "honestly", "um"]
 
-Anyway, that's the story of the time a wave caught me by surprise at the beach. [a: Conclusion — "Anyway"]
+Anyway, that's the story of the time the sea took my new shoe. [a: Conclusion — "Anyway"]
 
 **한글 해석**
-그, 이번 여름에 남자친구랑 경포대에 갔는데, 음, 좀 웃긴 일이 있었어요. 그냥 물 가까이서 해변을 걸으면서 얘기하고 놀고 있었어요. 근데 갑자기, 어, 큰 파도가 확 밀려와서 신발이랑 바지가 다 젖어버린 거예요. 남자친구가 저를 보면서 "어, 괜찮아?"라고 했는데, 음, 동시에 좀 웃고 있었어요. 저는 너무 놀라서 잠깐 그 자리에 그냥 서 있었어요, 뭘 해야 할지도 모르고. 솔직히 신발은 그날 하루 종일 다 젖어있었는데, 음, 지금 생각하면 그게 오히려 웃긴 추억이 됐어요. 아무튼, 그게 저희가 해변에서 파도에 갑자기 당했던 이야기예요.
+그, 이번 여름에 엄마랑 경포대에 갔는데, 음, 좀 웃긴 일이 있었어요. 그때 딱 새로 산 신발을 신고 있었는데, 물 가까이서 해변을 걷고 있었어요. 근데 갑자기, 어, 큰 파도가 확 밀려와서 신발 한 짝이 발에서 그냥 벗겨져서 떠내려간 거예요. 엄마가 저를 보면서 "어머, 네 신발!"이라고 했고, 저희 둘 다 그냥 물속으로 쫓아 뛰어갔어요. 그렇게 열심히 잡으려고 했는데, 음, 신발은 그냥 계속 더 멀리 떠내려갔어요. 솔직히 새로 산 신발이 그냥 사라져버렸는데, 음, 지금 생각하면 그게 오히려 웃긴 추억이 됐어요. 아무튼, 그게 바다가 제 새 신발을 가져간 이야기예요.
 
 ---
 
@@ -86,18 +86,19 @@ Overall, that's pretty much how we spend our time whenever we go to the beach. [
 ## 자체 점검 (완성본 컨펌 전 체크리스트)
 - [x] 4단계 구조(Intro→Main Point→Detail→Conclusion) 각 답변에 반영됨
 - [x] 필러 밀도: 문장마다 최소 1개 이상 (um/you know/I mean/like/so/uh)
-- [x] 메인포인트 한 문장으로 명확: Q1(경치), Q2(파도에 젖은 경험), Q3(남친이랑 카페에서 시간보내기)
+- [x] 메인포인트 한 문장으로 명확: Q1(경치), Q2(파도에 신발 떠내려간 경험), Q3(남친이랑 카페에서 시간보내기)
 - [x] 클로징 다양화: Q1 "That's about it" / Q2 "Anyway" / Q3 "Overall" (겹치는 표현 없음)
 - [x] 오프너 다양화: Q1 "Oh," / Q2 "So," / Q3 "Honestly," (전부 "Um,"으로 겹치던 문제 수정, 2026-09-28)
 - [x] 쉬운 단어 위주 (attractive→pretty, brownish→brown 등으로 단순화)
 - [x] 한글 해석 각 문항 아래 병기
 - [x] 가벼운 유머 1곳 추가 (Q3 커피값 드립)
-- [x] Q1·Q2 내용 겹침 문제 발견 및 수정 (2026-09-28) — Q2를 "경치 재설명"에서 "파도에 젖은 실제 사건"으로 교체, direct quotation 추가
-- [x] 영화보기(팝콘 쏟음)와 겹치지 않도록 "쏟기" 대신 "파도" 소재로 차별화
+- [x] Q1·Q2 내용 겹침 문제 발견 및 수정 (2026-09-28) — Q2를 "경치 재설명"에서 "파도에 신발 떠내려간 실제 사건(엄마와 함께)"으로 교체, direct quotation 추가
+- [x] 영화보기(팝콘 쏟음)와 겹치지 않도록 "쏟기" 대신 "파도에 신발 떠내려감" 소재로 차별화
 - [x] 화이트 라이 불필요 — 실제 경험 그대로 써도 충분히 단순하고 자연스러움
 
 ## 포인트
-- Q1(Description, 경치)과 Q2(Past Experience, 파도 사건)를 서로 다른 내용으로 분리해서 반복처럼 안 들리게 함
+- Q1(Description, 경치)과 Q2(Past Experience, 신발 떠내려간 사건)를 서로 다른 내용/등장인물로 분리해서 반복처럼 안 들리게 함
 - Q3(Habit)은 main point 없이 나열하지 않고 "남친이랑 카페에서 시간보내기"로 수렴
+- Q2는 direct quotation("Oh my gosh, your shoe!")으로 Past Experience 유형의 현장감 강화
 - Q2는 direct quotation("Oh no, are you okay?")으로 Past Experience 유형의 현장감 강화
 - 필러(um, you know, I mean, so)를 문장 중간중간 배치
