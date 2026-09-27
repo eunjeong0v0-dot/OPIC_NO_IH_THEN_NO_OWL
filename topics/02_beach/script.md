@@ -74,7 +74,7 @@ And, you know, once we get there, we don't really swim or anything. [b: filler "
 
 Instead, I usually just bring, like, a book or some work with me. [c: AL표현 — "instead"로 전환]
 
-We find a nice cafe near the beach with a view of the sea, and, um, I just sit there and work or read while looking at the water. [d: Habit — 카페에서 하는 일 디테일]
+We find a nice cafe near the beach with a view of the sea, and, um, we each just do our own thing — I read or do some work, and he does his own stuff too. [d: Habit — 카페에서 하는 일 디테일]
 
 I mean, it's kind of weird, but, like, I just focus so much better there. [b: filler "I mean", "like"]
 
@@ -83,7 +83,7 @@ Honestly, just looking at the sea kind of clears my head, and, um, it puts me in
 Overall, that's pretty much how we spend our time whenever we go to the beach. [a: Conclusion — "Overall"로 다양화]
 
 **한글 해석**
-솔직히, 저는 해변에 한 1년에 한 번 정도 가는 것 같아요. 보통 남자친구랑 같이 가고, 날씨에 따라 KTX를 타거나 그냥 차로 가요. 그리고 막상 가면 수영은 거의 안 해요. 대신 저는 보통 책이나 할 일을 챙겨가요. 바다 보이는 괜찮은 카페를 찾아서, 거기 앉아서 물을 보면서 일하거나 책을 읽어요. 좀 이상하게 들릴 수도 있는데, 거기서 이상하게 집중이 훨씬 잘 돼요. 솔직히 그냥 바다만 보고 있어도 머리가 맑아지는 느낌이고, 기분도 되게 좋아져요. 아무튼, 저희가 해변 가면 보통 이렇게 시간을 보내요.
+솔직히, 저는 해변에 한 1년에 한 번 정도 가는 것 같아요. 보통 남자친구랑 같이 가고, 날씨에 따라 KTX를 타거나 그냥 차로 가요. 그리고 막상 가면 수영은 거의 안 해요. 대신 저는 보통 책이나 할 일을 챙겨가요. 바다 보이는 괜찮은 카페를 찾아서, 각자 자기 할 일을 해요 — 저는 책을 읽거나 일을 하고, 남자친구도 자기 할 걸 해요. 좀 이상하게 들릴 수도 있는데, 거기서 이상하게 집중이 훨씬 잘 돼요. 솔직히 그냥 바다만 보고 있어도 머리가 맑아지는 느낌이고, 기분도 되게 좋아져요. 아무튼, 저희가 해변 가면 보통 이렇게 시간을 보내요.
 
 ---
 
@@ -105,5 +105,5 @@ Overall, that's pretty much how we spend our time whenever we go to the beach. [
 - Q1(Description, 경치)과 Q2(Past Experience, 신발 떠내려간 사건)를 서로 다른 내용/등장인물로 분리해서 반복처럼 안 들리게 함
 - Q3(Habit)은 main point 없이 나열하지 않고 "바다 보면서 작업하면 집중 잘되고 기분 좋아짐"으로 수렴
 - Q2는 direct quotation("Oh my gosh, your shoe!")으로 Past Experience 유형의 현장감 강화
-- Q2는 direct quotation("Oh no, are you okay?")으로 Past Experience 유형의 현장감 강화
+- Q3 "we find a cafe" → "I work" 대명사 안 맞던 문제 수정 (2026-09-28) — "각자 자기 할 일 함"으로 통일
 - 필러(um, you know, I mean, so)를 문장 중간중간 배치
