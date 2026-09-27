@@ -14,16 +14,16 @@
 
 Honestly, when I'm on vacation and staying home, the best part is that nobody bothers me, and I can just sleep as much as I want and wake up whenever I feel like it. [a: Intro + Main Point — 앞에서 바로 던지기]
 
-I mean, other than that, I usually just watch YouTube or do a little housework. [b: filler "I mean" — 디테일1, "lie in bed" 중복 제거]
+You know, sometimes I actually sleep so much that my head starts to hurt, ha. [b: 가벼운 유머 — 메인포인트(잠)와 바로 붙여서 자연스럽게 이어짐]
+
+I mean, other than sleeping, I usually just watch YouTube or do a little housework. [b: filler "I mean" — 디테일1로 전환]
 
 And YouTube kind of has everything I'm curious about — like travel videos, random trivia, even stuff about the economy, you know? So whatever I'm in the mood for, it's just there. [c: AL표현 — 디테일2]
-
-You know, sometimes I actually sleep so much that my head starts to hurt, ha. [b: 가벼운 유머]
 
 Overall, that's why staying home just feels so comfortable to me, and that's pretty much how I spend my vacation. [a: Conclusion — "Overall"로 메인포인트 복귀]
 
 **한글 해석**
-솔직히, 휴가 때 집에 있으면 제일 좋은 건 아무도 저를 방해 안 하고, 자고 싶은 만큼 자고 일어나고 싶을 때 일어나면 된다는 거예요. 그거 말고는 보통 유튜브 보거나 집안일하는 편이에요. 유튜브에는 제가 궁금해하는 거의 모든 게 다 있어요 — 여행 영상, 잡다한 상식, 심지어 경제 얘기까지요. 그래서 뭐가 됐든 보고 싶은 게 다 있어요. 가끔은 너무 많이 자서 머리가 아플 때도 있어요, ㅋㅋ. 아무튼, 그래서 집에 있는 게 그렇게 편하게 느껴지는 거고, 저는 휴가 때 보통 이렇게 시간을 보내요.
+솔직히, 휴가 때 집에 있으면 제일 좋은 건 아무도 저를 방해 안 하고, 자고 싶은 만큼 자고 일어나고 싶을 때 일어나면 된다는 거예요. 가끔은 너무 많이 자서 머리가 아플 때도 있어요, ㅋㅋ. 자는 거 말고는 보통 유튜브 보거나 집안일하는 편이에요. 유튜브에는 제가 궁금해하는 거의 모든 게 다 있어요 — 여행 영상, 잡다한 상식, 심지어 경제 얘기까지요. 그래서 뭐가 됐든 보고 싶은 게 다 있어요. 아무튼, 그래서 집에 있는 게 그렇게 편하게 느껴지는 거고, 저는 휴가 때 보통 이렇게 시간을 보내요.
 
 ---
 
@@ -66,6 +66,7 @@ So basically, I caught a cold because of my own mistake, ha. That's about it, ho
 - [x] 오프너 다양화: Q1 "Honestly," / Q2 "Oh,"
 - [x] (2026-09-28 추가) Q1이 나열식으로 들린다는 피드백 → 메인포인트를 맨 앞으로 빼고, 유튜브/집안일/눕기는 그 메인포인트를 뒷받침하는 디테일로 재배치. "Overall"로 다시 메인포인트 복귀하며 마무리
 - [x] (2026-09-28 추가) 메인포인트 내용 수정 — "돈 안 쓰고 안 나가도 됨"에서 "아무도 방해 안 하고 자고 싶은 만큼 자고 일어나면 됨"으로 변경, "너무 많이 자서 머리 아플 때도 있다"는 셀프 디스 유머 추가
+- [x] (2026-09-28 추가) 문장 순서 수정 — "유튜브 얘기하다가 갑자기 잠 얘기로 튐" 지적 받음 → 잠 관련 유머를 메인포인트 바로 뒤로 옮기고, "I mean, other than sleeping,"으로 유튜브 디테일로 자연스럽게 전환
 - [x] 클로징 다양화: Q1 "Overall" / Q2 "That's about it"
 - [x] 쉬운 단어 위주
 - [x] 한글 해석 각 문항 아래 병기
