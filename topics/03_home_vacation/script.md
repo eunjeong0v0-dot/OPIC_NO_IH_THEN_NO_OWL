@@ -1,0 +1,75 @@
+# 집에서 보내는 휴가 (Staying Home for Vacation)
+
+## 정보 (오순 님 실제 답변)
+- 집에서 쉴 때 하는 일(메인포인트용): 유튜브 보면서 집안일하거나 침대에 누워있는 편
+  - 유튜브에 궁금한 게 거의 다 있음 (여행, 상식, 경제 등)
+  - 너무 편하고 아늑함
+- 기억에 남는 경험: 겨울에 히터 틀고 하루종일 침대 밖으로 안 나갔는데 너무 추워서 히터를 더 세게 틀고 장판까지 틀었는데도 하나도 안 따뜻해짐 → 결국 감기 걸림 → 알고보니 문이 열려있었음 (셀프 디스 유머)
+
+---
+
+## Q1. "What do you usually do when you stay home for vacation?" [Description/Habit]
+
+🎯 메인포인트: 유튜브 보면서 집안일하거나 누워있는 게 제일 편하고 아늑함
+
+So, when I'm on vacation and just staying home, I mostly watch YouTube, do a little housework, and, honestly, just lie in bed most of the time. [a: Intro / b: filler "so", "honestly"]
+
+I mean, YouTube kind of has everything I'm curious about — like travel videos, random trivia, even stuff about the economy, you know? [c: AL표현 — 유튜브 다양성 디테일]
+
+Whatever I'm in the mood for, it's just there. [b: filler, detail]
+
+That's probably why staying home feels so comfortable and cozy to me. [a: Main Point]
+
+I don't really need to go anywhere or spend any money, and that's honestly the best part. [b: filler "honestly"]
+
+Overall, that's pretty much how I spend my time when I stay home for vacation. [a: Conclusion — "Overall"]
+
+**한글 해석**
+그, 휴가 때 집에만 있을 땐 보통 유튜브 보면서 집안일하거나, 솔직히 그냥 침대에 누워있는 편이에요. 유튜브에는 제가 궁금해하는 거의 모든 게 다 있어요 — 여행 영상, 잡다한 상식, 심지어 경제 얘기까지, 아시죠? 그냥 뭐가 됐든 보고 싶은 게 다 있어요. 그래서 아마 집에 있는 게 그렇게 편하고 아늑하게 느껴지는 것 같아요. 어디 안 나가도 되고 돈도 안 써도 되니까, 그게 진짜 제일 좋은 부분이에요. 아무튼, 저는 휴가 때 집에 있으면 보통 이렇게 시간을 보내요.
+
+---
+
+## Q2. "Tell me about a memorable time you spent your vacation at home." [Past Experience]
+
+🎯 메인포인트: 히터 틀어도 안 따뜻해서 감기 걸렸는데 알고보니 문이 열려있었던 웃긴 경험
+
+Oh, I actually have a pretty funny memory from last winter. [a: Intro]
+
+I was staying home for vacation, and it was so cold, so I turned on the heater and just stayed in bed all day. [d: 상황 설정]
+
+But, honestly, it just wasn't getting warm at all. [b: filler "honestly"]
+
+So I turned the heater up even higher, and I even turned on the floor heating too. [c: AL표현 — 디테일 강화]
+
+But it was still freezing! I remember thinking, like, why is this not working at all? [b: filler "like"]
+
+Anyway, I ended up catching a cold because of it. [b: filler "anyway"]
+
+And later I found out the door had been open the whole time. [c: AL표현 — 반전]
+
+I mean, I can't believe I didn't even notice — so basically, I caught a cold because of my own mistake, ha. [b: 셀프 디스 유머]
+
+That's about it, honestly. [a: Conclusion]
+
+**한글 해석**
+아, 사실 작년 겨울에 진짜 웃긴 기억이 있어요. 휴가 때 집에 있었는데 너무 추워서 히터를 틀고 하루 종일 침대에만 있었어요. 근데 솔직히 하나도 안 따뜻해지는 거예요. 그래서 히터를 더 세게 틀고, 장판까지 틀었어요. 근데도 계속 추운 거예요! "왜 이게 하나도 안 되지?"라고 생각했던 게 기억나요. 아무튼, 결국 그것 때문에 감기에 걸렸어요. 그리고 나중에 알고 보니까 문이 계속 열려있었던 거예요. 진짜 제가 그걸 눈치도 못 챘다는 게 믿기지가 않아요 — 그러니까 결국 제 실수 때문에 감기 걸린 거죠, ㅋㅋ. 이게 다예요, 진짜로.
+
+---
+
+## 자체 점검 (완성본 컨펌 전 체크리스트)
+- [x] 4단계 구조(Intro→Main Point→Detail→Conclusion) 각 답변에 반영됨
+- [x] 필러 밀도: 문장마다 최소 1개 이상 (so/honestly/I mean/you know/like/anyway)
+- [x] "uh"·"yeah"("So yeah" 포함) 없음
+- [x] 메인포인트 한 문장으로 명확: Q1(유튜브+눕기=편안함), Q2(히터 틀어도 안 따뜻해서 감기 걸림, 문 열려있었음)
+- [x] 오프너 다양화: Q1 "So," / Q2 "Oh,"
+- [x] 클로징 다양화: Q1 "Overall" / Q2 "That's about it"
+- [x] 쉬운 단어 위주
+- [x] 한글 해석 각 문항 아래 병기
+- [x] 셀프 디스 유머 포함 (Q2 — 자기 실수 인정하는 톤, 타인 비하 없음)
+- [x] 다른 콤보셋 주제(영화-팝콘, 해변-신발)와 에피소드 안 겹침 (히터/문 열림 소재로 차별화)
+- [x] 화이트 라이 불필요 — 실제 경험 그대로 사용
+
+## 포인트
+- Q1은 "유튜브에 거의 다 있어서 편하다"는 디테일로 Habit 답변의 메인포인트를 자연스럽게 뒷받침
+- Q2는 "히터를 더 세게 틀어도 안 따뜻함 → 알고보니 문 열림"이라는 반전 구조로 웃음 포인트 확보, direct quotation 대신 속마음("why is this not working")으로 현장감 살림
+- Comparison은 억지로 안 채움 (2문제로 충분)
