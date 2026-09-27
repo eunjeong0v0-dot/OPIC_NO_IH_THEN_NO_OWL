@@ -11,7 +11,7 @@
 - 가는 빈도: 1년에 1번 정도
 - 함께 가는 사람: 남자친구
 - 이동 수단: KTX 또는 차
-- 가서 하는 일: 바다 보이는 예쁜 카페에서 구경하기
+- 가서 하는 일(Habit용): 책이나 할 일 챙겨가서 바다 보이는 예쁜 카페에서 공부/독서. 집중도 잘되고 기분도 좋아짐
 - 기억에 남는 경험(Past Experience용): 이번 여름 경포대에서 엄마랑 해변가 걷다가 파도에 새로 산 신발 한 짝이 떠내려감 (Q1과 내용 안 겹치게 작성, 2026-09-28 최종 수정)
 
 ---
@@ -64,7 +64,7 @@ Anyway, that's the story of the time the sea took my new shoe. [a: Conclusion �
 
 ## Q3. "How often do you go to the beach? Who do you usually go with, and what do you do there?" [Habit]
 
-🎯 메인포인트: 남자친구랑 1년에 한 번 정도 가서 바다 보이는 카페에서 시간 보냄
+🎯 메인포인트: 바다 보이는 카페에서 공부나 책을 읽으면 집중도 잘되고 기분도 좋아짐
 
 Honestly, I'd say I go to the beach, like, once a year, maybe. [a: Intro / b: filler "like"]
 
@@ -72,35 +72,38 @@ I usually go with my boyfriend, and, uh, we either take the KTX or just drive th
 
 And, you know, once we get there, we don't really swim or anything. [b: filler "you know"]
 
-Instead, we usually just find a nice cafe near the beach, and we sit there and look at the view. [c: AL표현 — "instead"로 전환]
+Instead, I usually just bring, like, a book or some work with me. [c: AL표현 — "instead"로 전환]
 
-I mean, we just order some coffee and, like, spend hours just staring at the sea. Honestly, we probably pay more for the coffee than we spend on anything else that day, ha. [b: filler "I mean", "like" + 가벼운 유머]
+We find a nice cafe near the beach with a view of the sea, and, um, I just sit there and work or read while looking at the water. [d: Habit — 카페에서 하는 일 디테일]
 
-It's such a simple thing, but, um, it's honestly one of my favorite ways to spend time with him. [b: filler "um"]
+I mean, it's kind of weird, but, like, I just focus so much better there. [b: filler "I mean", "like"]
+
+Honestly, just looking at the sea kind of clears my head, and, um, it puts me in a really good mood too. [b: filler "honestly", "um"]
 
 Overall, that's pretty much how we spend our time whenever we go to the beach. [a: Conclusion — "Overall"로 다양화]
 
 **한글 해석**
-솔직히, 저는 해변에 한 1년에 한 번 정도 가는 것 같아요. 보통 남자친구랑 같이 가고, 날씨에 따라 KTX를 타거나 그냥 차로 가요. 그리고 막상 가면 수영은 거의 안 해요. 대신 보통 해변 근처에 있는 괜찮은 카페를 찾아서 거기 앉아서 경치를 봐요. 그냥 커피 하나 시켜놓고 몇 시간이고 바다만 보는 거죠. 솔직히 그날 쓰는 돈 중에 커피값이 제일 많을걸요, ㅎㅎ. 되게 별거 아닌 건데, 사실 남자친구랑 시간 보내는 방법 중에 제일 좋아하는 거예요. 아무튼, 저희가 해변 가면 보통 이렇게 시간을 보내요.
+솔직히, 저는 해변에 한 1년에 한 번 정도 가는 것 같아요. 보통 남자친구랑 같이 가고, 날씨에 따라 KTX를 타거나 그냥 차로 가요. 그리고 막상 가면 수영은 거의 안 해요. 대신 저는 보통 책이나 할 일을 챙겨가요. 바다 보이는 괜찮은 카페를 찾아서, 거기 앉아서 물을 보면서 일하거나 책을 읽어요. 좀 이상하게 들릴 수도 있는데, 거기서 이상하게 집중이 훨씬 잘 돼요. 솔직히 그냥 바다만 보고 있어도 머리가 맑아지는 느낌이고, 기분도 되게 좋아져요. 아무튼, 저희가 해변 가면 보통 이렇게 시간을 보내요.
 
 ---
 
 ## 자체 점검 (완성본 컨펌 전 체크리스트)
 - [x] 4단계 구조(Intro→Main Point→Detail→Conclusion) 각 답변에 반영됨
 - [x] 필러 밀도: 문장마다 최소 1개 이상 (um/you know/I mean/like/so/uh)
-- [x] 메인포인트 한 문장으로 명확: Q1(경치), Q2(파도에 신발 떠내려간 경험), Q3(남친이랑 카페에서 시간보내기)
+- [x] 메인포인트 한 문장으로 명확: Q1(경치), Q2(파도에 신발 떠내려간 경험), Q3(카페에서 공부/독서하면 집중 잘되고 기분 좋아짐)
 - [x] 클로징 다양화: Q1 "That's about it" / Q2 "Anyway" / Q3 "Overall" (겹치는 표현 없음)
 - [x] 오프너 다양화: Q1 "Oh," / Q2 "So," / Q3 "Honestly," (전부 "Um,"으로 겹치던 문제 수정, 2026-09-28)
 - [x] 쉬운 단어 위주 (attractive→pretty, brownish→brown 등으로 단순화)
 - [x] 한글 해석 각 문항 아래 병기
-- [x] 가벼운 유머 2곳 추가 (Q2 "바다가 신발 마음에 들었나 봄" 드립, Q3 커피값 드립)
+- [x] 가벼운 유머 1곳 추가 (Q2 "바다가 신발 마음에 들었나 봄" 드립)
 - [x] Q1·Q2 내용 겹침 문제 발견 및 수정 (2026-09-28) — Q2를 "경치 재설명"에서 "파도에 신발 떠내려간 실제 사건(엄마와 함께)"으로 교체, direct quotation 추가
 - [x] 영화보기(팝콘 쏟음)와 겹치지 않도록 "쏟기" 대신 "파도에 신발 떠내려감" 소재로 차별화
+- [x] Q3 내용 수정 (2026-09-28) — "카페에서 커피 마시며 구경"에서 "책/일 챙겨가서 바다 보며 작업, 집중 잘되고 기분 좋아짐"으로 교체 (오순 님 실제 습관 반영)
 - [x] 화이트 라이 불필요 — 실제 경험 그대로 써도 충분히 단순하고 자연스러움
 
 ## 포인트
 - Q1(Description, 경치)과 Q2(Past Experience, 신발 떠내려간 사건)를 서로 다른 내용/등장인물로 분리해서 반복처럼 안 들리게 함
-- Q3(Habit)은 main point 없이 나열하지 않고 "남친이랑 카페에서 시간보내기"로 수렴
+- Q3(Habit)은 main point 없이 나열하지 않고 "바다 보면서 작업하면 집중 잘되고 기분 좋아짐"으로 수렴
 - Q2는 direct quotation("Oh my gosh, your shoe!")으로 Past Experience 유형의 현장감 강화
 - Q2는 direct quotation("Oh no, are you okay?")으로 Past Experience 유형의 현장감 강화
 - 필러(um, you know, I mean, so)를 문장 중간중간 배치
