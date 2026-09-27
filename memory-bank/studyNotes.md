@@ -64,6 +64,17 @@ So, um, in the past, my place was actually really small — like, my bed was sma
 - 결론 요약: **너무 솔직하지도 말고, 너무 거짓말하지도 말 것.** 너무 솔직하면 답변이 어려워지고, 너무 거짓말하면 부자연스럽게 들림 — 그 중간 지점을 찾는 게 고득점 비결
 - ⚠️ 다만 오순 님 어휘력 규칙과 결합: 포장할 때도 어려운 단어 대신 쉬운 형용사(nice, big, spacious, cozy 등) 사용
 
+### SMART 전략 — 답변 구조 공식 (오픽노잼 유튜브, 2026-09-28 추가)
+※ 우리가 이미 쓰던 "4단계 구조"를 공식 이름 붙인 버전. 대시보드 "강의 요약" 10번, "AL 전략 노트"에도 반영됨
+- **S**tate: 메인포인트를 한 문장으로 먼저 던지기 (central idea)
+- **M**ention: 메인포인트 뒤에 관련 예시 1~3개. "The thing is, I do other things as well" 같은 전환 표현으로 자연스럽게 연결
+- **A**ddress: 다시 메인포인트로 돌아와서 그게 왜 나한테 중요한지 설명 — 청자가 내 동기를 이해하게 됨
+- **R**eflect: 그것 때문에 뭘 배웠는지·깨달았는지, 생각이 어떻게 바뀌었는지. 이 레이어가 답변을 완성도 있게 만들어줌
+- **T**ie back: 처음에 썼던 핵심 단어(예: amazing)를 마지막에 재사용하며 마무리 — 하나로 이어지는 느낌
+- **"and so"**는 스피킹 테스트에서 자주 써도 되는 자연스러운 연결어 (라이팅과 다름 — 오히려 자연스러운 인상을 줌)
+- "They **aren't all that** attractive"처럼 축약형(aren't) + all that을 쓰면 "They are not attractive"보다 훨씬 부드럽게 들림
+- 완전 초보라면 S 단계를 어렵게 안 잡고 그냥 쉽게 시작해도 무방 (예: "I love my gym"처럼 단순하게)
+
 ### 15번 뉴스 기반 질문 대응 전략
 - 모르는 뉴스일 때 (Habit 유형으로 전환): 반응(2~3초 "Oh wow, alright") → 질문 핵심 단어 반복 → "I have no idea about ~" (※ "I don't know much about"는 IH까지만 받음) → 필요시 "let alone" 활용 → habit으로 마무리("For me, I think...", "As far as I know...")
 - 아는 뉴스일 때 (Past Experience로 전환): "remember" 동사로 시작, 명확한 main point 제시 후 디테일 전개
