@@ -51,14 +51,14 @@ I remember my mom just looked at me and said, "Oh my gosh, your shoe!" and we bo
 
 And, I mean, we tried so hard to catch it, but, um, it just kept floating further away. [b: filler "I mean", detail]
 
-Honestly, my brand new shoe was just gone, but, um, it was actually kind of a funny memory now. [b: filler "honestly", "um"]
+Honestly, I was pretty upset that my brand new shoe was just gone, but, um, what can you do? [b: filler "honestly", "um"]
 
-I guess the sea just really liked my new shoes, ha. [b: 가벼운 유머]
+I guess the sea just really liked my new shoes, so there was nothing I could do about it, ha. [b: 가벼운 유머]
 
 Anyway, that's the story of the time the sea took my new shoe. [a: Conclusion — "Anyway"]
 
 **한글 해석**
-그, 이번 여름에 엄마랑 경포대에 갔는데, 음, 좀 웃긴 일이 있었어요. 그때 딱 새로 산 신발을 신고 있었는데, 물 가까이서 해변을 걷고 있었어요. 근데 갑자기, 어, 큰 파도가 확 밀려와서 신발 한 짝이 발에서 그냥 벗겨져서 떠내려간 거예요. 엄마가 저를 보면서 "어머, 네 신발!"이라고 했고, 저희 둘 다 그냥 물속으로 쫓아 뛰어갔어요. 그렇게 열심히 잡으려고 했는데, 음, 신발은 그냥 계속 더 멀리 떠내려갔어요. 솔직히 새로 산 신발이 그냥 사라져버렸는데, 음, 지금 생각하면 그게 오히려 웃긴 추억이 됐어요. 바다가 제 신발이 그렇게 마음에 들었나 봐요, ㅎㅎ. 아무튼, 그게 바다가 제 새 신발을 가져간 이야기예요.
+그, 이번 여름에 엄마랑 경포대에 갔는데, 음, 좀 웃긴 일이 있었어요. 그때 딱 새로 산 신발을 신고 있었는데, 물 가까이서 해변을 걷고 있었어요. 근데 갑자기, 어, 큰 파도가 확 밀려와서 신발 한 짝이 발에서 그냥 벗겨져서 떠내려간 거예요. 엄마가 저를 보면서 "어머, 네 신발!"이라고 했고, 저희 둘 다 그냥 물속으로 쫓아 뛰어갔어요. 그렇게 열심히 잡으려고 했는데, 음, 신발은 그냥 계속 더 멀리 떠내려갔어요. 솔직히 새 신발이 그렇게 사라져버려서 속상했는데, 음, 어쩔 수 없죠. 바다가 제 신발이 그렇게 마음에 들었나 봐요, 그러니 저도 어쩔 도리가 없었어요, ㅎㅎ. 아무튼, 그게 바다가 제 새 신발을 가져간 이야기예요.
 
 ---
 
@@ -96,6 +96,7 @@ Overall, that's pretty much how we spend our time whenever we go to the beach. [
 - [x] 쉬운 단어 위주 (attractive→pretty, brownish→brown 등으로 단순화)
 - [x] 한글 해석 각 문항 아래 병기
 - [x] 가벼운 유머 1곳 추가 (Q2 "바다가 신발 마음에 들었나 봄" 드립)
+- [x] Q2 마무리 톤 수정 (2026-09-28) — "웃긴 추억이 됐어요"는 공감 안 된다는 피드백 받음 → "속상했지만 어쩔 수 없죠, 바다가 마음에 들었나 봐요"로 변경 (억지 긍정 대신 체념+유머 톤)
 - [x] Q1·Q2 내용 겹침 문제 발견 및 수정 (2026-09-28) — Q2를 "경치 재설명"에서 "파도에 신발 떠내려간 실제 사건(엄마와 함께)"으로 교체, direct quotation 추가
 - [x] 영화보기(팝콘 쏟음)와 겹치지 않도록 "쏟기" 대신 "파도에 신발 떠내려감" 소재로 차별화
 - [x] Q3 내용 수정 (2026-09-28) — "카페에서 커피 마시며 구경"에서 "책/일 챙겨가서 바다 보며 작업, 집중 잘되고 기분 좋아짐"으로 교체 (오순 님 실제 습관 반영)
