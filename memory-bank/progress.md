@@ -19,6 +19,8 @@
 - [x] 대시보드에 자기소개("Ocun") 탭 추가 (a/b/c 태그별 색상 구분)
 - [x] "사는 곳" 콤보셋 완성 — Description(Q1)/Habit(Q2 좋아하는 방)/Comparison(예전 작은 집 vs 지금 큰 집, 집순이 됨)/보너스 Past Experience(옆집 소음 에피소드) 전부 대시보드·topics/01_home/script.md에 반영
 - [x] 대시보드 v9: 주제별 풀 스크립트 카드마다 실제 시험에 나올 법한 질문 텍스트("Q. ...") 추가 (Cafes/Transportation/Recycling/Technology/Free Time/Home)
+- [x] Home Description을 쉬운 단어 버전으로 재작성, "쉬운 단어=IH 정석 전략" 원칙을 memory-bank에 규칙으로 기록
+- [x] 대시보드 v11: 오순 님이 공유한 오픽노잼 영상(화이트 라이 전략) 요약해서 강의 요약 9번째 카드 + AL 전략 노트에 추가
 
 ## 진행 중
 - [ ] 다음 콤보셋 주제 "영화보기" 스크립트 작성 중 (질문 던짐, 답변 대기)

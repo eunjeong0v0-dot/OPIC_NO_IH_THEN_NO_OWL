@@ -51,6 +51,14 @@ So, um, in the past, my place was actually really small — like, my bed was sma
 - "Moreover/Furthermore/In addition"은 구어체에서 매우 어색함 → 쓰지 말 것
 - "At that time"은 한국인이 자주 쓰는 어색한 표현 → 주의
 
+### 화이트 라이(White Lie) 전략 (오픽노잼 유튜브, 2026-09-27 추가)
+※ 오순 님이 링크 공유한 영상 요약 기반. 대시보드 "강의 요약" 9번, "AL 전략 노트"에도 반영됨
+- **솔직함보다 명확함이 우선**: 사실을 있는 그대로 다 말하려다 설명이 복잡해지면 오히려 손해 → 답변을 단순화하기 위한 적절한 하얀 거짓말이 고득점에 유리
+- 답변 구조화: 메인 포인트부터 명확히 잡기 (예: 집 묘사면 거실을 메인 포인트로), 불편한 점·복잡한 디테일(엘리베이터 없음 등)은 생략하거나 부차적으로 배치
+- 복잡한 실제 상황은 단순한 단어 하나로 퉁치기 (예: 그냥 "apartment"라고만 지칭)
+- 메인 포인트는 사실보다 살짝 매력적으로 포장 가능 (거실이 작아도 "spacious"라고 말하기)
+- ⚠️ 다만 오순 님 어휘력 규칙과 결합: 포장할 때도 어려운 단어 대신 쉬운 형용사(nice, big, spacious, cozy 등) 사용
+
 ### 15번 뉴스 기반 질문 대응 전략
 - 모르는 뉴스일 때 (Habit 유형으로 전환): 반응(2~3초 "Oh wow, alright") → 질문 핵심 단어 반복 → "I have no idea about ~" (※ "I don't know much about"는 IH까지만 받음) → 필요시 "let alone" 활용 → habit으로 마무리("For me, I think...", "As far as I know...")
 - 아는 뉴스일 때 (Past Experience로 전환): "remember" 동사로 시작, 명확한 main point 제시 후 디테일 전개
