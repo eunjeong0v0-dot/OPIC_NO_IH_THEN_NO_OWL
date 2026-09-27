@@ -33,13 +33,13 @@
 So, um, I live alone in a small apartment, but it's actually really cozy. You know, the living room and kitchen are in one room together, and then there's one bedroom and one bathroom. I mean, it's pretty small, but it's enough for me. Oh, and there's also a little terrace and balcony, which I really like — it gets a lot of sunlight in the morning, so that's nice. So yeah, it's small, but it feels really warm and comfortable, like my own little space. That's pretty much what my place looks like.
 
 **Q2. Habit — "Which room do you like the most, and why?"**
-Um, if you ask me, my favorite room is definitely my bedroom. You know why? Because of my bed. I just, you know, love lying down. Like, I can study lying down, um, I can watch TV lying down, and I can literally do anything lying down. And, uh, whenever I'm outside, I always find myself wanting to go home and just lie down on my bed. And um, especially at night, when I turn on my mood light and, you know, lie on my bed, it just feels so cozy. My bed is super soft and, I mean, it's actually pretty huge, so it's like my own little world. So, that's why my bedroom is my favorite place in my apartment. That's about it.
+Um, if you ask me, my favorite room is definitely my bedroom. You know why? Because of my bed. I just, you know, love lying down. Like, I can study lying down, um, I can watch TV lying down, and I can literally do anything lying down. And, uh, whenever I'm outside, I always find myself wanting to go home and just lie down on my bed. And um, especially at night, when I turn on my mood light and, you know, lie on my bed, it just feels so cozy. My bed is super soft and, I mean, it's actually pretty huge, so it's like my own little world. So, that's why my bedroom is my favorite place in my apartment.
 
 **Q2.5 (보너스) Past Experience — 옆집 소음 에피소드**
-Oh, actually, there's one small downside — um, sometimes my neighbor next door sings really loudly, like, out of nowhere. I remember one night I was just about to fall asleep, and, you know, I could hear this random singing through the wall. I mean, it was kind of funny, but also pretty annoying at the time. But honestly, other than that, my place is pretty much perfect. That's about it.
+Oh, actually, there's one small downside — um, sometimes my neighbor next door sings really loudly, like, out of nowhere. I remember one night I was just about to fall asleep, and, you know, I could hear this random singing through the wall. I mean, it was kind of funny, but also pretty annoying at the time. But honestly, other than that, my place is pretty much perfect.
 
 **Q3. Comparison — 예전 집 vs 지금 집**
-So, um, in the past, my place was actually really small — like, my bed was small, my fridge was small, everything was just tiny. And, you know, because of that, I actually didn't really like staying home for long. I mean, I'd just go out as much as I could. But, uh, these days it's totally different — I have a bigger fridge and a bigger bed now, and it's just so much more comfortable. Um, I literally just want to lie around and, you know, do nothing at home. So yeah, I guess you could say I've become a total homebody these days. That's about it.
+So, um, in the past, my place was actually really small — like, my bed was small, my fridge was small, everything was just tiny. And, you know, because of that, I actually didn't really like staying home for long. I mean, I'd just go out as much as I could. But, uh, these days it's totally different — I have a bigger fridge and a bigger bed now, and it's just so much more comfortable. Um, I literally just want to lie around and, you know, do nothing at home. So yeah, I guess you could say I've become a total homebody these days.
 
 ### 자연스러움을 위한 디테일 표현
 - Small words: just, really, pretty (much), even, like, a little bit, kind of, sort of, a lot of, definitely
@@ -47,7 +47,7 @@ So, um, in the past, my place was actually really small — like, my bed was sma
 - 필러는 느리게 끌지 말고 빠르게("유노"처럼) — 끌면 스크립트처럼 들림, 침묵보다는 필러가 낫다
 - Direct quotation 활용 (예: 엄마가 "Rachel, clean your room!" 라고 했다) — Past Experience에서 특히 효과적
 - Simile(비유) 사용 — 예: "This place makes me feel like I'm home", "It's like a playground for adults"
-- 결론은 "That's it/That's all"보다 "That's about it"이 더 자연스러움
+- 결론은 "That's it/That's all"보다 "That's about it"이 더 자연스러움. 단, 같은 콤보셋 안 여러 답변에서 **매번 똑같이 반복하면 오히려 스크립트처럼 들림** — 답변마다 다른 자연스러운 마무리 문장을 섞어 쓸 것
 - "Moreover/Furthermore/In addition"은 구어체에서 매우 어색함 → 쓰지 말 것
 - "At that time"은 한국인이 자주 쓰는 어색한 표현 → 주의
 

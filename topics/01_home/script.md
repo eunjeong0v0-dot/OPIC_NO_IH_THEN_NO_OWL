@@ -39,7 +39,7 @@ And um, especially at night, when I turn on my mood light and, you know, lie on 
 
 My bed is super soft and, I mean, it's actually pretty huge, so it's like my own little world. [c: AL표현 — Simile / b: filler "I mean"]
 
-So, that's why my bedroom is my favorite place in my apartment. That's about it. [a: Conclusion / b: filler "so"]
+So, that's why my bedroom is my favorite place in my apartment. [a: Conclusion / b: filler "so"]
 
 ---
 
@@ -51,7 +51,7 @@ I remember one night I was just about to fall asleep, and, you know, I could hea
 
 I mean, it was kind of funny, but also pretty annoying at the time. [b: filler "I mean"]
 
-But honestly, other than that, my place is pretty much perfect. That's about it. [a: Conclusion / b: filler "honestly", "pretty much"]
+But honestly, other than that, my place is pretty much perfect. [a: Conclusion / b: filler "honestly", "pretty much"]
 
 ---
 
@@ -65,7 +65,7 @@ But, uh, these days it's totally different — I have a bigger fridge and a bigg
 
 Um, I literally just want to lie around and, you know, do nothing at home. [b: filler "um", "literally", "just", "you know"]
 
-So yeah, I guess you could say I've become a total homebody these days. That's about it. [a: Conclusion / b: filler "so yeah"]
+So yeah, I guess you could say I've become a total homebody these days. [a: Conclusion / b: filler "so yeah"]
 
 ---
 
@@ -74,7 +74,7 @@ So yeah, I guess you could say I've become a total homebody these days. That's a
 - Main point("방이 제일 좋다")를 Q2 초반에 바로 제시
 - "lying down"을 반복해서 강조하는 구조 (공부도/TV도/뭐든 누워서) — 리듬감 있고 외우기도 쉬움
 - "it's like my own little world" — simile로 감정 표현
-- 두 질문 다 "That's pretty much..." / "That's about it"으로 마무리 패턴 통일 → 외우기 쉬움
+- (2026-09-27 수정) "That's about it"이 Habit/Past Experience/Comparison 세 곳 끝에 똑같이 반복되던 걸 발견 → 다 빼고 각자 다른 자연스러운 마무리 문장으로 정리함 (같은 클로징을 콤보셋 안에서 반복하면 스크립트처럼 들림)
 - Q3(Comparison)은 순수 과거형 → 순수 현재형으로만 구조 잡아서 비교 단어 남발 없이 자연스럽게 대조
 - "작은 침대/냉장고 → 큰 침대/냉장고" 디테일이 "집순이가 됐다"는 결론과 인과관계로 자연스럽게 연결됨
 - Q2.5는 "완벽한 집인데 옆집 소음만 빼면"이라는 디테일이 오히려 리얼리티를 살려줌 — Past Experience형 질문이 나오면 이걸로 대응
