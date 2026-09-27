@@ -31,16 +31,16 @@
 **정보**: 거실 겸 부엌 1 + 방 1 + 화장실 1 + 테라스/베란다. 제일 좋아하는 공간은 방(침대 때문 — 눕는 거 좋아함). 예전 집은 침대·냉장고 다 작아서 집에 오래 있기 싫었는데, 지금은 큰 냉장고·큰 침대라 편해서 집순이가 됨. 단점은 가끔 옆집에서 시끄럽게 노래 부르는 것, 그거 빼곤 완벽함.
 
 **Q1. Description — "Tell me about the place where you live."**
-So, um, I live alone in a small apartment, but it's actually really cozy. You know, the living room and kitchen are in one room together, and then there's one bedroom and one bathroom. I mean, it's pretty small, but it's enough for me. Oh, and there's also a little terrace and balcony, which I really like — it gets a lot of sunlight in the morning, so that's nice. So yeah, it's small, but it feels really warm and comfortable, like my own little space. That's pretty much what my place looks like.
+So, um, I live alone in a small apartment, but it's actually really cozy. You know, the living room and kitchen are in one room together, and then there's one bedroom and one bathroom. I mean, it's pretty small, but it's enough for me. Oh, and there's also a little terrace and balcony, which I really like — it gets a lot of sunlight in the morning, so that's nice. Overall, it's small, but it feels really warm and comfortable, like my own little space. That's pretty much what my place looks like.
 
 **Q2. Habit — "Which room do you like the most, and why?"**
-Um, if you ask me, my favorite room is definitely my bedroom. You know why? Because of my bed. I just, you know, love lying down. Like, I can study lying down, um, I can watch TV lying down, and I can literally do anything lying down. And, uh, whenever I'm outside, I always find myself wanting to go home and just lie down on my bed. And um, especially at night, when I turn on my mood light and, you know, lie on my bed, it just feels so cozy. My bed is super soft and, I mean, it's actually pretty huge, so it's like my own little world. So, that's why my bedroom is my favorite place in my apartment.
+Um, if you ask me, my favorite room is definitely my bedroom. You know why? Because of my bed. I just, you know, love lying down. Like, I can study lying down, um, I can watch TV lying down, and I can literally do anything lying down. And, honestly, whenever I'm outside, I always find myself wanting to go home and just lie down on my bed. And um, especially at night, when I turn on my mood light and, you know, lie on my bed, it just feels so cozy. My bed is super soft and, I mean, it's actually pretty huge, so it's like my own little world. So, that's why my bedroom is my favorite place in my apartment.
 
 **Q2.5 (보너스) Past Experience — 옆집 소음 에피소드**
 Oh, actually, there's one small downside — um, sometimes my neighbor next door sings really loudly, like, out of nowhere. I remember one night I was just about to fall asleep, and, you know, I could hear this random singing through the wall. I mean, it was kind of funny, but also pretty annoying at the time. But honestly, other than that, my place is pretty much perfect.
 
 **Q3. Comparison — 예전 집 vs 지금 집**
-So, um, in the past, my place was actually really small — like, my bed was small, my fridge was small, everything was just tiny. And, you know, because of that, I actually didn't really like staying home for long. I mean, I'd just go out as much as I could. But, uh, these days it's totally different — I have a bigger fridge and a bigger bed now, and it's just so much more comfortable. Um, I literally just want to lie around and, you know, do nothing at home. So yeah, I guess you could say I've become a total homebody these days.
+So, um, in the past, my place was actually really small — like, my bed was small, my fridge was small, everything was just tiny. And, you know, because of that, I actually didn't really like staying home for long. I mean, I'd just go out as much as I could. But, honestly, these days it's totally different — I have a bigger fridge and a bigger bed now, and it's just so much more comfortable. Um, I literally just want to lie around and, you know, do nothing at home. Overall, I guess you could say I've become a total homebody these days.
 
 ### 자연스러움을 위한 디테일 표현
 - Small words: just, really, pretty (much), even, like, a little bit, kind of, sort of, a lot of, definitely
@@ -54,6 +54,7 @@ So, um, in the past, my place was actually really small — like, my bed was sma
 - "At that time"은 한국인이 자주 쓰는 어색한 표현 → 주의
 - ⚠️ (2026-09-28 추가) **같은 콤보셋 안 답변끼리 내용(에피소드/디테일)이 겹치면 안 됨** — 해변 Description(경치)과 Past Experience를 처음엔 똑같은 내용으로 썼다가 지적받음. 유형이 달라도 소재 자체는 서로 다르게
 - ⚠️ (2026-09-28 추가) **다른 콤보셋 주제끼리도 에피소드 소재가 겹치면 티가 남** — 영화보기(팝콘 쏟음)와 해변가기(음료/신발 관련 사고)를 처음엔 비슷하게 가려다 위험하다고 판단, 완전히 다른 소재(파도에 신발 떠내려감)로 교체. 실제로 같은 시험에서 여러 콤보셋 주제가 다 물어질 수 있으므로 주제 간 에피소드 재활용은 지양
+- 🚫 (2026-09-28 추가, 오픽노잼 유튜브 "초보자 스킵 전략" 영상 기준) **필러 "uh"와 "yeah"("So yeah" 포함) 금지** — 영상에서 "uh"는 명시적으로 "beginners say uh too much, remove uh entirely"라고 나옴, "yeah"도 사용자가 같은 영상 기준으로 빼기로 함. 대체 필러: um, you know, I mean, like, oh, honestly, so, anyway, overall 등으로 대체. 기존 스크립트(자기소개/사는 곳/영화보기/해변가기)에 있던 uh·So yeah를 전부 점검해서 교체함 (2026-09-28)
 
 ### 화이트 라이(White Lie) 전략 — 5-Step 실전 예시 (오픽노잼 유튜브, 2026-09-27 추가, 09-28 대본 기반 보강)
 ※ 오순 님이 링크 + 실제 대본을 공유해준 영상 기반. 대시보드 "강의 요약" 9번, "AL 전략 노트"에도 반영됨
@@ -98,9 +99,9 @@ So, um, in the past, my place was actually really small — like, my bed was sma
 - 각 답변에 위 4유형 골격 + small words/filler + direct quotation/simile를 최소 1개 이상 녹여서 AL급 디테일 확보
 - **쉬운 단어 위주** — 오순 님 어휘력이 낮은 편이라 어려운 단어/복잡한 구문 지양. "open-concept", "conveniently within reach", "pours in" 같은 고급 어휘·숙어는 쓰지 말 것. small words(just, really, pretty much, kind of 등)와 기본 형용사(nice, warm, comfortable, small, big, cozy 등) 중심
   - ⚠️ **쉬운 단어 = 감점 아님.** 강의 요약 3번("짧은 문장만으로 IH 받기")에 따르면 어휘 난이도보다 **막힘없는 유창함 + 문법 정확도 + 감정 표현**이 핵심
-- **필러를 문장 중간중간 많이 섞기** (um, you know, I mean, like, uh, oh, so yeah 등)
+- **필러를 문장 중간중간 많이 섞기** (um, you know, I mean, like, oh, honestly, so, anyway, overall 등) — 🚫 "uh"와 "yeah"("So yeah" 포함)는 쓰지 않음 (2026-09-28, 아래 근거 참고)
 - **Description/Habit/Past Experience/Comparison 각 답변 메인포인트를 한 문장으로 명확히 잡기** — 특히 Habit은 그냥 나열하지 말고 핵심 하나로 수렴시킬 것. 실제로 나올 법한 질문 개수(보통 2~3개)에 맞춰 그중 잘 맞는 유형만 골라도 됨(4개 다 채울 필요 없음)
-- **마무리 표현은 답변마다 겹치지 않게 다양화** (Anyway / So yeah / Either way / Overall / That's about it 등 로테이션)
+- **마무리 표현은 답변마다 겹치지 않게 다양화** (Anyway / So / Either way / Overall / That's about it 등 로테이션 — "So yeah"는 금지된 "yeah" 포함이라 제외)
 - **화이트 라이 전략 활용** — 복잡한 실제 상황은 단순화하고, 필요하면 살짝 포장해도 됨 (오픽은 진위 확인 안 함)
 - **유머/드립 섞어도 됨** — 사용자와 함께 다듬어가며 완성
 - **스크립트마다 한글 해석 병기** (영어 스크립트 바로 아래에 한글 번역)

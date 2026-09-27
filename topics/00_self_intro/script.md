@@ -16,7 +16,7 @@
 
 Hi, I'm Ocun. [a: Intro]
 
-Uh, actually, I don't really know what to tell you about myself, but um, these days I'm really into dieting and, you know, taking care of my appearance a little bit. [a: Main Point]
+Honestly, I don't really know what to tell you about myself, but um, these days I'm really into dieting and, you know, taking care of my appearance a little bit. [a: Main Point]
 
 Because, I gained a little bit of weight recently, so I've been trying to eat healthier and workout a bit more these days.
 

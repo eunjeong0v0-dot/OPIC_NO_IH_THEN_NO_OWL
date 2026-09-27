@@ -23,7 +23,7 @@ I mean, it's pretty small, but it's enough for me. [b: filler "I mean"]
 
 Oh, and there's also a little terrace and balcony, which I really like — it gets a lot of sunlight in the morning, so that's nice. [b: filler "oh" + 느낌 표현 추가]
 
-So yeah, it's small, but it feels really warm and comfortable, like my own little space. That's pretty much what my place looks like. [c: Simile — 쉬운 단어로 / a: Conclusion / b: filler "so yeah"]
+Overall, it's small, but it feels really warm and comfortable, like my own little space. That's pretty much what my place looks like. [c: Simile — 쉬운 단어로 / a: Conclusion / b: filler "overall"]
 
 ---
 
@@ -33,7 +33,7 @@ Um, if you ask me, my favorite room is definitely my bedroom. [a: Main Point / b
 
 You know why? Because of my bed. I just, you know, love lying down. Like, I can study lying down, um, I can watch TV lying down, and I can literally do anything lying down. [c: AL표현 — 반복구조로 강조 / b: filler "you know", "like", "um"]
 
-And, uh, whenever I'm outside, I always find myself wanting to go home and just lie down on my bed. [b: filler "and uh", "just"]
+And, honestly, whenever I'm outside, I always find myself wanting to go home and just lie down on my bed. [b: filler "honestly", "just"]
 
 And um, especially at night, when I turn on my mood light and, you know, lie on my bed, it just feels so cozy. [b: filler "um", "you know", "just"]
 
@@ -61,11 +61,11 @@ So, um, in the past, my place was actually really small — like, my bed was sma
 
 And, you know, because of that, I actually didn't really like staying home for long. I mean, I'd just go out as much as I could. [b: filler "you know", "I mean", "just"]
 
-But, uh, these days it's totally different — I have a bigger fridge and a bigger bed now, and it's just so much more comfortable. [c: Comparison — Pure Present vs Past / b: filler "uh", "just"]
+But, honestly, these days it's totally different — I have a bigger fridge and a bigger bed now, and it's just so much more comfortable. [c: Comparison — Pure Present vs Past / b: filler "honestly", "just"]
 
 Um, I literally just want to lie around and, you know, do nothing at home. [b: filler "um", "literally", "just", "you know"]
 
-So yeah, I guess you could say I've become a total homebody these days. [a: Conclusion / b: filler "so yeah"]
+Anyway, I guess you could say I've become a total homebody these days. [a: Conclusion / b: filler "anyway"]
 
 ---
 

@@ -45,7 +45,7 @@ So, this summer, I went to Gyeongpodae with my mom, and, um, something kind of f
 
 I was wearing these new shoes I'd just bought, and, you know, we were just walking along the beach, close to the water. [d: Past Experience — 상황 설정, 새 신발 강조]
 
-But then, uh, out of nowhere, a huge wave just came in, and it actually swept one of my shoes right off my foot. [c: AL표현 — 갑작스러운 상황 강조]
+But then, out of nowhere, a huge wave just came in, and it actually swept one of my shoes right off my foot. [c: AL표현 — 갑작스러운 상황 강조]
 
 I remember my mom just looked at me and said, "Oh my gosh, your shoe!" and we both just ran after it into the water. [c: AL표현 — Direct quotation]
 
@@ -68,7 +68,7 @@ Anyway, that's the story of the time the sea took my new shoe. [a: Conclusion �
 
 Honestly, I'd say I go to the beach, like, once a month, maybe. [a: Intro / b: filler "like"]
 
-I usually go with my boyfriend, and, uh, we either take the KTX or just drive there, depending on the weather. [d: Habit — 함께 가는 사람 + 이동수단]
+I usually go with my boyfriend, and, honestly, we either take the KTX or just drive there, depending on the weather. [d: Habit — 함께 가는 사람 + 이동수단]
 
 You know, when I was a kid, I used to swim a lot whenever I went to the beach, but, um, these days I don't really do that anymore. [d: Habit — 어릴 때 vs 지금 대조로 디테일 강화]
 
@@ -89,7 +89,7 @@ Overall, that's pretty much how we spend our time whenever we go to the beach. [
 
 ## 자체 점검 (완성본 컨펌 전 체크리스트)
 - [x] 4단계 구조(Intro→Main Point→Detail→Conclusion) 각 답변에 반영됨
-- [x] 필러 밀도: 문장마다 최소 1개 이상 (um/you know/I mean/like/so/uh)
+- [x] 필러 밀도: 문장마다 최소 1개 이상 (um/you know/I mean/like/so/honestly)
 - [x] 메인포인트 한 문장으로 명확: Q1(경치), Q2(파도에 신발 떠내려간 경험), Q3(오션뷰 카페에서 책읽으면 머리 맑아지고 기분 좋아짐)
 - [x] 클로징 다양화: Q1 "That's about it" / Q2 "Anyway" / Q3 "Overall" (겹치는 표현 없음)
 - [x] 오프너 다양화: Q1 "Oh," / Q2 "So," / Q3 "Honestly," (전부 "Um,"으로 겹치던 문제 수정, 2026-09-28)
@@ -101,6 +101,7 @@ Overall, that's pretty much how we spend our time whenever we go to the beach. [
 - [x] 영화보기(팝콘 쏟음)와 겹치지 않도록 "쏟기" 대신 "파도에 신발 떠내려감" 소재로 차별화
 - [x] Q3 내용 수정 (2026-09-28) — "카페에서 커피 마시며 구경" → "책/일 챙겨가서 바다 보며 작업" → 오순 님이 준 원문("어릴 땐 수영했는데 지금은 책읽거나 공부, 오션뷰 카페에 있으면 머리 맑아짐")으로 최종 수정, 어릴 때-지금 대조 디테일 추가
 - [x] 화이트 라이 불필요 — 실제 경험 그대로 써도 충분히 단순하고 자연스러움
+- [x] 필러 "uh" 전부 제거 (2026-09-28, 오픽노잼 "초보자 스킵 전략" 영상 기준 — "uh"·"yeah" 금지)
 
 ## 포인트
 - Q1(Description, 경치)과 Q2(Past Experience, 신발 떠내려간 사건)를 서로 다른 내용/등장인물로 분리해서 반복처럼 안 들리게 함
