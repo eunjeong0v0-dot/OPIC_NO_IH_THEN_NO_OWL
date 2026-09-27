@@ -35,24 +35,26 @@ Overall, that's pretty much how I spend my time when I stay home for vacation. [
 
 Oh, I actually have a pretty funny memory from last winter. [a: Intro]
 
-I was staying home for vacation, and it was so cold, so I turned on the heater and just stayed in bed all day. [d: 상황 설정]
+I was staying home for vacation, and it was so cold that I could actually see my breath a little, even inside my room. [d: 상황 설정 / c: 감각적 디테일]
 
-But, honestly, it just wasn't getting warm at all. [b: filler "honestly"]
+So I turned on the heater and just stayed in bed all day, wrapped up in like three blankets. [b: detail "like"]
+
+But, honestly, it just wasn't getting warm at all — my hands and feet were still freezing cold, and I was shivering under the blankets. [b: filler "honestly" / c: 신체 감각 디테일]
 
 So I turned the heater up even higher, and I even turned on the floor heating too. [c: AL표현 — 디테일 강화]
 
-But it was still freezing! I remember thinking, like, why is this not working at all? [b: filler "like"]
+But it was still so cold that my teeth were basically chattering! I remember thinking, like, why is this not working at all? [b: filler "like" / c: 청각적 디테일]
 
 Anyway, I ended up catching a cold because of it. [b: filler "anyway"]
 
-And later I found out the door had been open the whole time. [c: AL표현 — 반전]
+And later I found out the door had been open the whole time, letting all this freezing air in. [c: AL표현 — 반전 + 원인 설명]
 
 I mean, I can't believe I didn't even notice — so basically, I caught a cold because of my own mistake, ha. [b: 셀프 디스 유머]
 
 That's about it, honestly. [a: Conclusion]
 
 **한글 해석**
-아, 사실 작년 겨울에 진짜 웃긴 기억이 있어요. 휴가 때 집에 있었는데 너무 추워서 히터를 틀고 하루 종일 침대에만 있었어요. 근데 솔직히 하나도 안 따뜻해지는 거예요. 그래서 히터를 더 세게 틀고, 장판까지 틀었어요. 근데도 계속 추운 거예요! "왜 이게 하나도 안 되지?"라고 생각했던 게 기억나요. 아무튼, 결국 그것 때문에 감기에 걸렸어요. 그리고 나중에 알고 보니까 문이 계속 열려있었던 거예요. 진짜 제가 그걸 눈치도 못 챘다는 게 믿기지가 않아요 — 그러니까 결국 제 실수 때문에 감기 걸린 거죠, ㅋㅋ. 이게 다예요, 진짜로.
+아, 사실 작년 겨울에 진짜 웃긴 기억이 있어요. 휴가 때 집에 있었는데, 너무 추워서 방 안인데도 입김이 살짝 보일 정도였어요. 그래서 히터를 틀고 담요를 세 장쯤 두르고 하루 종일 침대에만 있었어요. 근데 솔직히 하나도 안 따뜻해지는 거예요 — 손발은 계속 얼음장 같았고, 담요 속에서도 덜덜 떨었어요. 그래서 히터를 더 세게 틀고, 장판까지 틀었어요. 근데도 이가 딱딱 부딪힐 정도로 추운 거예요! "왜 이게 하나도 안 되지?"라고 생각했던 게 기억나요. 아무튼, 결국 그것 때문에 감기에 걸렸어요. 그리고 나중에 알고 보니까 문이 계속 열려있어서 그 찬바람이 다 들어오고 있었던 거예요. 진짜 제가 그걸 눈치도 못 챘다는 게 믿기지가 않아요 — 그러니까 결국 제 실수 때문에 감기 걸린 거죠, ㅋㅋ. 이게 다예요, 진짜로.
 
 ---
 
@@ -68,6 +70,7 @@ That's about it, honestly. [a: Conclusion]
 - [x] 셀프 디스 유머 포함 (Q2 — 자기 실수 인정하는 톤, 타인 비하 없음)
 - [x] 다른 콤보셋 주제(영화-팝콘, 해변-신발)와 에피소드 안 겹침 (히터/문 열림 소재로 차별화)
 - [x] 화이트 라이 불필요 — 실제 경험 그대로 사용
+- [x] Q2 "추운 느낌" 감각 디테일 보강 (2026-09-28) — 입김 보임/담요 세 장/손발 얼음장/이 딱딱 부딪힘 등 추가
 
 ## 포인트
 - Q1은 "유튜브에 거의 다 있어서 편하다"는 디테일로 Habit 답변의 메인포인트를 자연스럽게 뒷받침
