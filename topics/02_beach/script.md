@@ -78,12 +78,12 @@ We find a nice cafe near the beach with a view of the sea, and, um, we each just
 
 I mean, it's kind of weird, but, like, I just focus so much better there. [b: filler "I mean", "like"]
 
-Honestly, just looking at the sea kind of clears my head, and, um, it puts me in a really good mood too. [b: filler "honestly", "um"]
+So, just looking at the sea kind of clears my head, and, um, it puts me in a really good mood too. [b: filler "so", "um"]
 
 Overall, that's pretty much how we spend our time whenever we go to the beach. [a: Conclusion — "Overall"로 다양화]
 
 **한글 해석**
-솔직히, 저는 해변에 한 1년에 한 번 정도 가는 것 같아요. 보통 남자친구랑 같이 가고, 날씨에 따라 KTX를 타거나 그냥 차로 가요. 그리고 막상 가면 수영은 거의 안 해요. 대신 저는 보통 책이나 할 일을 챙겨가요. 바다 보이는 괜찮은 카페를 찾아서, 각자 자기 할 일을 해요 — 저는 책을 읽거나 일을 하고, 남자친구도 자기 할 걸 해요. 좀 이상하게 들릴 수도 있는데, 거기서 이상하게 집중이 훨씬 잘 돼요. 솔직히 그냥 바다만 보고 있어도 머리가 맑아지는 느낌이고, 기분도 되게 좋아져요. 아무튼, 저희가 해변 가면 보통 이렇게 시간을 보내요.
+솔직히, 저는 해변에 한 1년에 한 번 정도 가는 것 같아요. 보통 남자친구랑 같이 가고, 날씨에 따라 KTX를 타거나 그냥 차로 가요. 그리고 막상 가면 수영은 거의 안 해요. 대신 저는 보통 책이나 할 일을 챙겨가요. 바다 보이는 괜찮은 카페를 찾아서, 각자 자기 할 일을 해요 — 저는 책을 읽거나 일을 하고, 남자친구도 자기 할 걸 해요. 좀 이상하게 들릴 수도 있는데, 거기서 이상하게 집중이 훨씬 잘 돼요. 그냥 바다만 보고 있어도 머리가 맑아지는 느낌이고, 기분도 되게 좋아져요. 아무튼, 저희가 해변 가면 보통 이렇게 시간을 보내요.
 
 ---
 
