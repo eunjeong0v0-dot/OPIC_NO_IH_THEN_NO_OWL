@@ -63,18 +63,18 @@ So basically, I caught a cold because of my own mistake, ha. That's about it, ho
 
 🎯 메인포인트: 예전엔 밖순이였는데 지금은 침대와 한 몸 (나이 들어서 귀찮아짐)
 
-So, honestly, I used to be such an outdoor person, but now that I'm older, I just don't feel like going out anymore, so these days I'm basically just glued to my bed all the time. [a: Intro + Main Point — 앞에서 바로 던지기, 구어체로 단순화]
+So, honestly, I used to be SUCH an outdoor person, but now that I'm older, I just don't feel like going out anymore, and these days I'm literally just glued to my bed all the time, ha. [a: Intro + Main Point — 강조(SUCH) + 유머(ha) 추가]
 
-You know, when I was younger, I'd hang out with my friends every weekend and just be out and about all the time. [d: Past — 짧게, 축약형(I'd) 사용]
+You know, when I was younger, I'd hang out with my friends every single weekend, and I genuinely loved just being out and about all the time. [d: Past — 감정 단어(genuinely loved) 추가]
 
-But these days, I just don't feel like going anywhere, so, like, lying in bed and watching something or scrolling on my phone is honestly the only thing I look forward to. [d: Present — One Thing 파고들기 / b: filler "like", "honestly"]
+But these days, oh my gosh, I just don't feel like going anywhere at all — like, lying in bed and watching something or scrolling on my phone genuinely makes me so happy, and honestly, it's the only thing I really look forward to. [d: Present — 감탄사(oh my gosh) + 감정 강조(so happy, genuinely)]
 
-I mean, it's kind of sad but funny at the same time that I got older, but, you know, this is just how I really relax now. [a: Feeling + Conclusion — "bittersweet" 대신 쉬운 구어체로]
+I mean, it's kind of sad but also pretty funny that I've gotten this old, ha, but, you know, this is just how I truly relax now, and I love it. [a: Feeling + Conclusion — 웃음(ha) + 감정 마무리(I love it) 추가]
 
 That's pretty much it these days. [a: Conclusion — 클로징 다양화]
 
 **한글 해석**
-솔직히, 저는 원래 완전 밖순이였는데, 나이가 들면서 그냥 밖에 나가기가 싫어졌어요. 그래서 요즘은 그냥 침대에 딱 붙어 지내요. 어릴 때는 주말마다 친구들이랑 놀고 계속 밖에 나돌아다녔거든요. 근데 요즘은 어디 나가고 싶은 마음이 별로 없어서, 침대에 누워서 뭐 보거나 폰 보는 게 진짜 유일한 낙이에요. 나이 든 게 좀 슬프면서도 웃기긴 한데, 이게 요즘 제가 진짜 쉬는 방법이에요. 요즘은 그냥 이런 느낌이에요.
+솔직히, 저는 원래 진짜 완전 밖순이였는데, 나이가 들면서 그냥 밖에 나가기가 싫어졌어요, 그래서 요즘은 진짜 그냥 침대에 딱 붙어 살아요, ㅋㅋ. 어릴 때는 주말마다 친구들이랑 놀고 정말 밖에 나돌아다니는 걸 좋아했거든요. 근데 요즘은, 아 진짜, 어디 나가고 싶은 마음이 하나도 없어요 — 침대에 누워서 뭐 보거나 폰 보는 게 진짜 너무 행복하고, 솔직히 그게 제가 진짜 기대하는 유일한 거예요. 나이 든 게 좀 슬프면서도 진짜 웃기긴 한데, ㅋㅋ, 이게 요즘 제가 진짜로 쉬는 방법이고, 저는 이게 너무 좋아요. 요즘은 그냥 이런 느낌이에요.
 
 ---
 
