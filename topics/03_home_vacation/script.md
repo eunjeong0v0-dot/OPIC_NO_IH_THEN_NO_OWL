@@ -63,18 +63,18 @@ So basically, I caught a cold because of my own mistake, ha. That's about it, ho
 
 🎯 메인포인트: 예전엔 밖순이였는데 지금은 침대와 한 몸 (나이 들어서 귀찮아짐)
 
-So, honestly, I used to be a total outdoor person, but now that I'm older, I just find going out kind of exhausting, so these days my whole free time is basically just being glued to my bed. [a: Intro + Main Point — 앞에서 바로 던지기]
+So, honestly, I used to be such an outdoor person, but now that I'm older, I just don't feel like going out anymore, so these days I'm basically just glued to my bed all the time. [a: Intro + Main Point — 앞에서 바로 던지기, 구어체로 단순화]
 
-You know, when I was younger, I used to meet my friends every single weekend and just be out and about all the time. [d: Past — 짧게]
+You know, when I was younger, I'd hang out with my friends every weekend and just be out and about all the time. [d: Past — 짧게, 축약형(I'd) 사용]
 
-But these days, I just don't really feel like going anywhere, so lying in bed and watching something or checking my phone is honestly the only thing I look forward to. [d: Present — One Thing 파고들기 / b: filler "honestly" — 무직 서베이 설정과 안 맞는 "일 끝나면" 표현 수정]
+But these days, I just don't feel like going anywhere, so, like, lying in bed and watching something or scrolling on my phone is honestly the only thing I look forward to. [d: Present — One Thing 파고들기 / b: filler "like", "honestly"]
 
-I mean, it's kind of bittersweet realizing I've gotten older, but, like, this is just my real way of healing now. [a: Feeling + Conclusion]
+I mean, it's kind of sad but funny at the same time that I got older, but, you know, this is just how I really relax now. [a: Feeling + Conclusion — "bittersweet" 대신 쉬운 구어체로]
 
 That's pretty much it these days. [a: Conclusion — 클로징 다양화]
 
 **한글 해석**
-솔직히, 저는 원래 완전 밖순이였는데, 나이가 들면서 그냥 밖에 나가는 게 좀 귀찮아졌어요. 그래서 요즘 제 여가 생활은 그냥 침대랑 한 몸 되는 게 다예요. 어릴 때는 주말마다 친구들 만나고 계속 밖으로 나돌아다녔거든요. 근데 요즘은 그냥 어디 나가고 싶은 마음이 별로 없어서, 침대에 누워서 뭐 보거나 폰 보는 게 진짜 유일한 낙이에요. 나이 들었다는 게 좀 웃프긴 한데, 이게 요즘 제 진짜 힐링이에요. 요즘은 그냥 이런 느낌이에요.
+솔직히, 저는 원래 완전 밖순이였는데, 나이가 들면서 그냥 밖에 나가기가 싫어졌어요. 그래서 요즘은 그냥 침대에 딱 붙어 지내요. 어릴 때는 주말마다 친구들이랑 놀고 계속 밖에 나돌아다녔거든요. 근데 요즘은 어디 나가고 싶은 마음이 별로 없어서, 침대에 누워서 뭐 보거나 폰 보는 게 진짜 유일한 낙이에요. 나이 든 게 좀 슬프면서도 웃기긴 한데, 이게 요즘 제가 진짜 쉬는 방법이에요. 요즘은 그냥 이런 느낌이에요.
 
 ---
 
