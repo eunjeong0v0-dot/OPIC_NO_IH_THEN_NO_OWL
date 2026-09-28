@@ -5,6 +5,7 @@
   - 유튜브에 궁금한 게 거의 다 있음 (여행, 상식, 경제 등)
   - 너무 편하고 아늑함
 - 기억에 남는 경험: 여느 때처럼 이불 속에서 유튜브 보던 중, 겨울에 히터 틀고 하루종일 침대 밖으로 안 나갔는데 냉장고 안에 있는 것처럼 너무 추워서 히터를 더 세게 틀고 장판까지 틀었는데도 하나도 안 따뜻해짐 → 결국 감기 걸림 → 알고보니 창문이 열려있었음 → 스스로에게 어이없었음 (셀프 디스 유머)
+- 예전-지금 비교: 어릴 땐 완전 밖순이였는데(주말마다 친구 만나러 나감), 나이 들수록 귀찮아져서 요즘은 일 끝나면 에너지 방전돼서 침대에서 OTT/폰 보는 게 유일한 낙임 → 나이 든 게 웃프지만(bittersweet) 이게 진짜 힐링이라는 결론
 
 ---
 
@@ -58,16 +59,36 @@ So basically, I caught a cold because of my own mistake, ha. That's about it, ho
 
 ---
 
+## Q3. "How has the way you spend your free time changed compared to before?" [Comparison]
+
+🎯 메인포인트: 예전엔 밖순이였는데 지금은 침대와 한 몸 (나이 들어서 귀찮아짐)
+
+So, honestly, I used to be a total outdoor person, but now that I'm older, I just find going out kind of exhausting, so these days my whole free time is basically just being glued to my bed. [a: Intro + Main Point — 앞에서 바로 던지기]
+
+You know, when I was younger, I used to meet my friends every single weekend and just be out and about all the time. [d: Past — 짧게]
+
+But these days, I just don't really feel like going anywhere, so lying in bed and watching something or checking my phone is honestly the only thing I look forward to. [d: Present — One Thing 파고들기 / b: filler "honestly" — 무직 서베이 설정과 안 맞는 "일 끝나면" 표현 수정]
+
+I mean, it's kind of bittersweet realizing I've gotten older, but, like, this is just my real way of healing now. [a: Feeling + Conclusion]
+
+That's pretty much it these days. [a: Conclusion — 클로징 다양화]
+
+**한글 해석**
+솔직히, 저는 원래 완전 밖순이였는데, 나이가 들면서 그냥 밖에 나가는 게 좀 귀찮아졌어요. 그래서 요즘 제 여가 생활은 그냥 침대랑 한 몸 되는 게 다예요. 어릴 때는 주말마다 친구들 만나고 계속 밖으로 나돌아다녔거든요. 근데 요즘은 그냥 어디 나가고 싶은 마음이 별로 없어서, 침대에 누워서 뭐 보거나 폰 보는 게 진짜 유일한 낙이에요. 나이 들었다는 게 좀 웃프긴 한데, 이게 요즘 제 진짜 힐링이에요. 요즘은 그냥 이런 느낌이에요.
+
+---
+
 ## 자체 점검 (완성본 컨펌 전 체크리스트)
 - [x] 4단계 구조(Intro→Main Point→Detail→Conclusion) 각 답변에 반영됨
 - [x] 필러 밀도: 문장마다 최소 1개 이상 (so/honestly/I mean/you know/like/anyway)
 - [x] "uh"·"yeah"("So yeah" 포함) 없음
-- [x] 메인포인트 한 문장으로 명확: Q1(아무도 방해 안 하고 자고 싶은 만큼 잘 수 있어서 편함), Q2(히터 틀어도 안 따뜻해서 감기 걸림, 창문 열려있었음)
-- [x] 오프너 다양화: Q1 "Honestly," / Q2 "Oh,"
+- [x] 메인포인트 한 문장으로 명확: Q1(아무도 방해 안 하고 자고 싶은 만큼 잘 수 있어서 편함), Q2(히터 틀어도 안 따뜻해서 감기 걸림, 창문 열려있었음), Q3(예전 밖순이 → 지금 침대와 한 몸)
+- [x] 오프너 다양화: Q1 "Honestly," / Q2 "Oh," / Q3 "So,"
+- [x] (2026-09-28 추가) Q3 Comparison 추가 — 예전(밖순이) vs 지금(침대와 한 몸) 구조, "bittersweet" 감정 표현 포함. 무직 서베이 설정과 안 맞는 "일 끝나면(finish work)" 표현이 있어서 "어디 나가고 싶은 마음이 없어서"로 수정
 - [x] (2026-09-28 추가) Q1이 나열식으로 들린다는 피드백 → 메인포인트를 맨 앞으로 빼고, 유튜브/집안일/눕기는 그 메인포인트를 뒷받침하는 디테일로 재배치. "Overall"로 다시 메인포인트 복귀하며 마무리
 - [x] (2026-09-28 추가) 메인포인트 내용 수정 — "돈 안 쓰고 안 나가도 됨"에서 "아무도 방해 안 하고 자고 싶은 만큼 자고 일어나면 됨"으로 변경, "너무 많이 자서 머리 아플 때도 있다"는 셀프 디스 유머 추가
 - [x] (2026-09-28 추가) 문장 순서 수정 — "유튜브 얘기하다가 갑자기 잠 얘기로 튐" 지적 받음 → 잠 관련 유머를 메인포인트 바로 뒤로 옮기고, "I mean, other than sleeping,"으로 유튜브 디테일로 자연스럽게 전환
-- [x] 클로징 다양화: Q1 "Overall" / Q2 "That's about it"
+- [x] 클로징 다양화: Q1 "Overall" / Q2 "That's about it" / Q3 "That's pretty much it these days"
 - [x] 쉬운 단어 위주
 - [x] 한글 해석 각 문항 아래 병기
 - [x] 셀프 디스 유머 포함 (Q2 — 자기 실수 인정하는 톤, 타인 비하 없음)
