@@ -13,6 +13,9 @@
 
 🎯 메인포인트: 아무도 방해 안 하고 자고 싶은 만큼 자고 일어나면 되니까 제일 편함
 
+**한글 해석**
+솔직히, 휴가 때 집에 있으면 제일 좋은 건 아무도 저를 방해 안 하고, 자고 싶은 만큼 자고 일어나고 싶을 때 일어나면 된다는 거예요. 가끔은 너무 많이 자서 머리가 아플 때도 있어요, ㅋㅋ. 자는 거 말고는 보통 유튜브 보거나 집안일하는 편이에요. 유튜브에는 제가 궁금해하는 거의 모든 게 다 있어요 — 여행 영상, 잡다한 상식, 심지어 경제 얘기까지요. 그래서 뭐가 됐든 보고 싶은 게 다 있어요. 아무튼, 그래서 저는 집에서 휴가 보내는 걸 좋아해요.
+
 Honestly, when I'm on vacation and staying home, the best part is that nobody bothers me, and I can just sleep as much as I want and wake up whenever I feel like it. [a: Intro + Main Point — 앞에서 바로 던지기]
 
 You know, sometimes I actually sleep so much that my head starts to hurt, ha. [b: 가벼운 유머 — 메인포인트(잠)와 바로 붙여서 자연스럽게 이어짐]
@@ -23,14 +26,14 @@ And YouTube kind of has everything I'm curious about — like travel videos, ran
 
 Overall, that's why I love spending my vacation at home. [a: Conclusion — "Overall"로 메인포인트 복귀, 사용자 요청으로 문장 단순화]
 
-**한글 해석**
-솔직히, 휴가 때 집에 있으면 제일 좋은 건 아무도 저를 방해 안 하고, 자고 싶은 만큼 자고 일어나고 싶을 때 일어나면 된다는 거예요. 가끔은 너무 많이 자서 머리가 아플 때도 있어요, ㅋㅋ. 자는 거 말고는 보통 유튜브 보거나 집안일하는 편이에요. 유튜브에는 제가 궁금해하는 거의 모든 게 다 있어요 — 여행 영상, 잡다한 상식, 심지어 경제 얘기까지요. 그래서 뭐가 됐든 보고 싶은 게 다 있어요. 아무튼, 그래서 저는 집에서 휴가 보내는 걸 좋아해요.
-
 ---
 
 ## Q2. "Tell me about a memorable time you spent your vacation at home." [Past Experience]
 
 🎯 메인포인트: 히터 틀어도 안 따뜻해서 감기 걸렸는데 알고보니 문이 열려있었던 웃긴 경험
+
+**한글 해석**
+아, 사실 작년 겨울에 진짜 웃긴 기억이 있어요. 여느 때처럼 이불 속에서 유튜브 보면서 그냥 평범한 하루를 보내고 있었어요. 근데 솔직히 그날 너무 추워서 진짜 냉장고 안에 있는 것 같았어요. 그래서 히터를 틀고 담요를 세 장쯤 두르고 하루 종일 침대에만 있었어요. 근데 하나도 안 따뜻해지는 거예요 — 손발은 계속 얼음장 같았고, 담요 속에서도 덜덜 떨었어요. 그래서 히터를 더 세게 틀고, 장판까지 틀었어요. 근데도 이가 딱딱 부딪힐 정도로 추운 거예요! "왜 이게 하나도 안 되지?"라고 생각했던 게 기억나요. 아무튼, 결국 그것 때문에 감기에 걸렸어요. 그리고 나중에 알고 보니까 창문이 계속 열려있어서 그 찬바람이 다 들어오고 있었던 거예요. 제 스스로가 너무 어이없었어요 — 그걸 그동안 눈치도 못 챘다는 게. 그러니까 결국 제 실수 때문에 감기 걸린 거죠, ㅋㅋ. 이게 다예요, 진짜로.
 
 Oh, I actually have a pretty funny memory from last winter. [a: Intro]
 
@@ -54,14 +57,14 @@ I mean, I was just so dumbfounded at myself — like, how did I not notice that 
 
 So basically, I caught a cold because of my own mistake, ha. That's about it, honestly. [a: Conclusion]
 
-**한글 해석**
-아, 사실 작년 겨울에 진짜 웃긴 기억이 있어요. 여느 때처럼 이불 속에서 유튜브 보면서 그냥 평범한 하루를 보내고 있었어요. 근데 솔직히 그날 너무 추워서 진짜 냉장고 안에 있는 것 같았어요. 그래서 히터를 틀고 담요를 세 장쯤 두르고 하루 종일 침대에만 있었어요. 근데 하나도 안 따뜻해지는 거예요 — 손발은 계속 얼음장 같았고, 담요 속에서도 덜덜 떨었어요. 그래서 히터를 더 세게 틀고, 장판까지 틀었어요. 근데도 이가 딱딱 부딪힐 정도로 추운 거예요! "왜 이게 하나도 안 되지?"라고 생각했던 게 기억나요. 아무튼, 결국 그것 때문에 감기에 걸렸어요. 그리고 나중에 알고 보니까 창문이 계속 열려있어서 그 찬바람이 다 들어오고 있었던 거예요. 제 스스로가 너무 어이없었어요 — 그걸 그동안 눈치도 못 챘다는 게. 그러니까 결국 제 실수 때문에 감기 걸린 거죠, ㅋㅋ. 이게 다예요, 진짜로.
-
 ---
 
 ## Q3. "How has the way you spend your free time changed compared to before?" [Comparison]
 
 🎯 메인포인트: 예전엔 밖순이였는데 지금은 침대와 한 몸 (나이 들어서 귀찮아짐)
+
+**한글 해석**
+솔직히, 저는 원래 진짜 완전 밖순이였는데, 나이가 들면서 그냥 밖에 나가기가 싫어졌어요, 그래서 요즘은 진짜 그냥 침대에 딱 붙어 살아요, ㅋㅋ. 어릴 때는 주말마다 친구들이랑 놀고 정말 밖에 나돌아다니는 걸 좋아했거든요. 근데 요즘은, 아 진짜, 어디 나가고 싶은 마음이 하나도 없어요 — 침대에 누워서 뭐 보거나 폰 보는 게 정말 너무 행복하고, 솔직히 그게 제가 진짜 기대하는 유일한 거예요. 나이 든 게 좀 슬프면서도 진짜 웃기긴 한데, ㅋㅋ, 이게 요즘 제가 진짜로 쉬는 방법이고, 저는 이게 너무 좋아요. 요즘은 그냥 이런 느낌이에요.
 
 So, honestly, I used to be SUCH an outdoor person, but now that I'm older, I just don't feel like going out anymore, and these days I'm literally just glued to my bed all the time, ha. [a: Intro + Main Point — 강조(SUCH) + 유머(ha) 추가]
 
@@ -72,9 +75,6 @@ But these days, oh my gosh, I just don't feel like going anywhere at all — lik
 I mean, it's kind of sad but also pretty funny that I've gotten this old, ha, but, you know, this is just how I truly relax now, and I love it. [a: Feeling + Conclusion — 웃음(ha) + 감정 마무리(I love it) 추가]
 
 That's pretty much it these days. [a: Conclusion — 클로징 다양화]
-
-**한글 해석**
-솔직히, 저는 원래 진짜 완전 밖순이였는데, 나이가 들면서 그냥 밖에 나가기가 싫어졌어요, 그래서 요즘은 진짜 그냥 침대에 딱 붙어 살아요, ㅋㅋ. 어릴 때는 주말마다 친구들이랑 놀고 정말 밖에 나돌아다니는 걸 좋아했거든요. 근데 요즘은, 아 진짜, 어디 나가고 싶은 마음이 하나도 없어요 — 침대에 누워서 뭐 보거나 폰 보는 게 정말 너무 행복하고, 솔직히 그게 제가 진짜 기대하는 유일한 거예요. 나이 든 게 좀 슬프면서도 진짜 웃기긴 한데, ㅋㅋ, 이게 요즘 제가 진짜로 쉬는 방법이고, 저는 이게 너무 좋아요. 요즘은 그냥 이런 느낌이에요.
 
 ---
 
@@ -98,6 +98,7 @@ That's pretty much it these days. [a: Conclusion — 클로징 다양화]
 - [x] (2026-09-28 추가) Q1과의 연결성 강화 — Q2 도입부를 "여느 때처럼 이불 속에서 유튜브 보던 중"으로 시작해 Q1의 루틴을 자연스럽게 이어받음. "냉장고 안에 있는 것 같았다" simile 추가, 문→창문으로 수정, "제 스스로가 너무 어이없었다"는 반응 추가
 
 ## 포인트
+- (2026-10-01) 문서 포맷을 질문→한글→영어 순으로 변경
 - Q1은 메인포인트("아무도 방해 안 하고 자고 싶은 만큼 잘 수 있어서 편함")를 맨 앞에 바로 던지고, 유튜브/집안일/눕기는 그걸 뒷받침하는 디테일로 배치 (MP+2 구조), "너무 많이 자서 머리 아픔" 셀프 디스로 마무리 직전 웃음 포인트 추가
 - Q2는 "히터를 더 세게 틀어도 안 따뜻함 → 알고보니 창문 열림"이라는 반전 구조로 웃음 포인트 확보, direct quotation 대신 속마음("why is this not working")과 셀프 디스("dumbfounded at myself")로 현장감 살림
 - Q2 도입부가 Q1의 "유튜브 보며 눕기" 습관을 그대로 이어받아서 콤보셋 전체가 하나로 연결되는 느낌 (오픽노잼 "콤보셋 전환 전략"과 같은 원리)

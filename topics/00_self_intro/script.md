@@ -14,6 +14,9 @@
 
 ## 스크립트
 
+**한글 해석**
+안녕하세요, 저는 오순이에요. 솔직히 저에 대해 뭘 말해야 할지 잘 모르겠는데, 음, 요즘 저는 다이어트랑, 그, 외모 관리에 좀 빠져있어요. 왜냐면 최근에 살이 좀 쪄서, 그래서 요즘 더 건강하게 먹고 운동도 좀 더 하려고 하고 있어요. 음, 제가 하고 있는 작은 습관 하나는 매일 아침 일어나서 물 한 잔 마시는 거예요. 되게 작은 습관이지만 하루를 제대로 시작하는 데 진짜 도움이 되는 것 같아요. 그냥 작은 변화인데, 꽤 큰 차이를 만들어줘요. 계속 이렇게 할 생각이에요. 이게 저에 대해 할 말의 거의 전부예요.
+
 Hi, I'm Ocun. [a: Intro]
 
 Honestly, I don't really know what to tell you about myself, but um, these days I'm really into dieting and, you know, taking care of my appearance a little bit. [a: Main Point]
@@ -27,6 +30,7 @@ It's such a small habit, but I feel like it's really helping me start my day off
 I'm gonna keep doing this. And that's pretty much all I have to say about myself. [a: Conclusion]
 
 ## 포인트
+- (2026-10-01) 문서 포맷을 질문→한글→영어 순으로 변경
 - Main point(다이어트/외모 관리)를 초반에 바로 던져서 방향을 명확히 함
 - "물 한 잔 마시기" 루틴을 디테일로 붙여서 진짜 이야기처럼 들리게 함
 - "I mean, it's just a tiny change" 같은 small word + filler로 자연스러움 추가

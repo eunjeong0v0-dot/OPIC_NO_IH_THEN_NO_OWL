@@ -20,6 +20,9 @@
 
 🎯 메인포인트: 경치가 예뻐서 경포대를 제일 좋아함
 
+**한글 해석**
+아, 제가 제일 좋아하는 해변은 확실히 경포대예요. 사실 제가 그 해변을 이렇게 좋아하는 이유는, 그, 경치가 너무 예뻐서예요. 바다 색깔이 계속 바뀌는데, 어떨 땐 초록색으로 보이고 어떨 땐 파란색으로 보여요. 왜 그런지는 모르겠는데, 그냥 그게 너무 예뻐요. 그리고 모래도 갈색빛이 도는데, 신선한 빵 같아요. 되게 사소한 거지만 그 점도 마음에 들어요. 그래서 그냥 앉아서 바다를 보고 있으면 마음이 되게 편안하고 좋아져요. 그래서 경포대가 제가 제일 좋아하는 해변이에요. 이게 다예요.
+
 Oh, my favorite beach is definitely Gyeongpodae. [a: Intro]
 
 I mean, honestly, the main reason I love it so much is because, you know, the view is just so pretty. [a: Main Point]
@@ -32,14 +35,14 @@ So, whenever I just sit there and look at the sea, I feel so calm and happy. [b:
 
 That's why Gyeongpodae is my favorite beach. That's about it. [a: Conclusion]
 
-**한글 해석**
-아, 제가 제일 좋아하는 해변은 확실히 경포대예요. 사실 제가 그 해변을 이렇게 좋아하는 이유는, 그, 경치가 너무 예뻐서예요. 바다 색깔이 계속 바뀌는데, 어떨 땐 초록색으로 보이고 어떨 땐 파란색으로 보여요. 왜 그런지는 모르겠는데, 그냥 그게 너무 예뻐요. 그리고 모래도 갈색빛이 도는데, 신선한 빵 같아요. 되게 사소한 거지만 그 점도 마음에 들어요. 그래서 그냥 앉아서 바다를 보고 있으면 마음이 되게 편안하고 좋아져요. 그래서 경포대가 제가 제일 좋아하는 해변이에요. 이게 다예요.
-
 ---
 
 ## Q2. "When was the last time you went to the beach? Tell me about that experience." [Past Experience]
 
 🎯 메인포인트: 새로 산 신발이 파도에 떠내려간 경험
+
+**한글 해석**
+그, 이번 여름에 엄마랑 경포대에 갔는데, 음, 좀 웃긴 일이 있었어요. 그때 딱 새로 산 신발을 신고 있었는데, 물 가까이서 해변을 걷고 있었어요. 근데 갑자기, 어, 큰 파도가 확 밀려와서 신발 한 짝이 발에서 그냥 벗겨져서 떠내려간 거예요. 엄마가 저를 보면서 "어머, 네 신발!"이라고 했고, 저희 둘 다 그냥 물속으로 쫓아 뛰어갔어요. 그렇게 열심히 잡으려고 했는데, 음, 신발은 그냥 계속 더 멀리 떠내려갔어요. 솔직히 새 신발이 그렇게 사라져버려서 속상했는데, 음, 어쩔 수 없죠. 바다가 제 신발이 그렇게 마음에 들었나 봐요, 그러니 저도 어쩔 도리가 없었어요, ㅎㅎ. 아무튼, 그게 바다가 제 새 신발을 가져간 이야기예요.
 
 So, this summer, I went to Gyeongpodae with my mom, and, um, something kind of funny happened. [a: Intro — 언제/어디서/누구와]
 
@@ -57,14 +60,14 @@ I guess the sea just really liked my new shoes, so there was nothing I could do 
 
 Anyway, that's the story of the time the sea took my new shoe. [a: Conclusion — "Anyway"]
 
-**한글 해석**
-그, 이번 여름에 엄마랑 경포대에 갔는데, 음, 좀 웃긴 일이 있었어요. 그때 딱 새로 산 신발을 신고 있었는데, 물 가까이서 해변을 걷고 있었어요. 근데 갑자기, 어, 큰 파도가 확 밀려와서 신발 한 짝이 발에서 그냥 벗겨져서 떠내려간 거예요. 엄마가 저를 보면서 "어머, 네 신발!"이라고 했고, 저희 둘 다 그냥 물속으로 쫓아 뛰어갔어요. 그렇게 열심히 잡으려고 했는데, 음, 신발은 그냥 계속 더 멀리 떠내려갔어요. 솔직히 새 신발이 그렇게 사라져버려서 속상했는데, 음, 어쩔 수 없죠. 바다가 제 신발이 그렇게 마음에 들었나 봐요, 그러니 저도 어쩔 도리가 없었어요, ㅎㅎ. 아무튼, 그게 바다가 제 새 신발을 가져간 이야기예요.
-
 ---
 
 ## Q3. "How often do you go to the beach? Who do you usually go with, and what do you do there?" [Habit]
 
 🎯 메인포인트: 오션뷰 카페에서 책 읽거나 공부하면 머리가 맑아지고 기분이 좋아짐
+
+**한글 해석**
+솔직히, 저는 해변에 한 달에 한 번 정도 가는 것 같아요. 보통 남자친구랑 같이 가고, 날씨에 따라 KTX를 타거나 그냥 차로 가요. 어릴 때는 해변 가면 수영을 진짜 많이 했는데, 음, 요즘은 그렇게 안 해요. 대신 저랑 남자친구는 보통 책이나 할 일을 챙겨가요. 바다 보이는 진짜 예쁜 카페를 찾아서, 각자 앉아서 자기 할 일을 해요 — 저는 책을 읽거나 일을 하고, 남자친구도 자기 할 걸 해요. 좀 웃기게 들릴 수도 있는데, 예쁜 오션뷰 카페에 있으면 머리가 되게 맑아지는 느낌이에요. 그리고 기분도 매번 되게 좋아져요. 아무튼, 저희가 해변 가면 보통 이렇게 시간을 보내요.
 
 Honestly, I'd say I go to the beach, like, once a month, maybe. [a: Intro / b: filler "like"]
 
@@ -81,9 +84,6 @@ I mean, it sounds kind of funny, but, like, just being in a pretty cafe with a v
 And, so, it puts me in a really good mood too, every single time. [b: filler "so", detail]
 
 Overall, that's pretty much how we spend our time whenever we go to the beach. [a: Conclusion — "Overall"로 다양화]
-
-**한글 해석**
-솔직히, 저는 해변에 한 달에 한 번 정도 가는 것 같아요. 보통 남자친구랑 같이 가고, 날씨에 따라 KTX를 타거나 그냥 차로 가요. 어릴 때는 해변 가면 수영을 진짜 많이 했는데, 음, 요즘은 그렇게 안 해요. 대신 저랑 남자친구는 보통 책이나 할 일을 챙겨가요. 바다 보이는 진짜 예쁜 카페를 찾아서, 각자 앉아서 자기 할 일을 해요 — 저는 책을 읽거나 일을 하고, 남자친구도 자기 할 걸 해요. 좀 웃기게 들릴 수도 있는데, 예쁜 오션뷰 카페에 있으면 머리가 되게 맑아지는 느낌이에요. 그리고 기분도 매번 되게 좋아져요. 아무튼, 저희가 해변 가면 보통 이렇게 시간을 보내요.
 
 ---
 
@@ -104,6 +104,7 @@ Overall, that's pretty much how we spend our time whenever we go to the beach. [
 - [x] 필러 "uh" 전부 제거 (2026-09-28, 오픽노잼 "초보자 스킵 전략" 영상 기준 — "uh"·"yeah" 금지)
 
 ## 포인트
+- (2026-10-01) 문서 포맷을 질문→한글→영어 순으로 변경
 - Q1(Description, 경치)과 Q2(Past Experience, 신발 떠내려간 사건)를 서로 다른 내용/등장인물로 분리해서 반복처럼 안 들리게 함
 - Q3(Habit)은 main point 없이 나열하지 않고 "오션뷰 카페에서 책읽으면 머리 맑아짐"으로 수렴, 어릴 때(수영) vs 지금(독서/일) 대조로 자연스러운 디테일 확보
 - Q2는 direct quotation("Oh my gosh, your shoe!")으로 Past Experience 유형의 현장감 강화
