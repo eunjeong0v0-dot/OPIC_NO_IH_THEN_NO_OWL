@@ -15,7 +15,14 @@
 
 ## Q1. "Tell me about the place where you live. What does it look like?"
 
-**한글 해석**
+**🗣️ 한글 드릴 (5~6문장, 매인포인트 1개 — 이걸 먼저 한글로 말하고 영어로 통역 연습)**
+1. 저는 혼자 작은 아파트에 사는데, 그래도 꽤 아늑한 편이에요.
+2. 거실이랑 주방은 한 공간에 같이 있고, 방 하나랑 화장실 하나가 있어요.
+3. 크기는 작은데 저 혼자 지내기엔 충분해요.
+4. 작은 테라스도 있어서 아침에 햇빛이 잘 들어와요.
+5. 그래서 전체적으로 작아도 되게 따뜻하고 편한 느낌이에요.
+
+**한글 해석 (전체 번역)**
 그, 저는 혼자 작은 아파트에 사는데, 사실 진짜 아늑해요. 거실이랑 주방이 한 공간에 같이 있고, 방 하나랑 화장실 하나가 있어요. 좀 작긴 한데, 저한테는 충분해요. 아, 그리고 작은 테라스랑 베란다도 있는데 그게 되게 마음에 들어요 — 아침에 햇빛이 많이 들어와서 좋아요. 전체적으로, 작지만 진짜 따뜻하고 편안한 느낌이에요, 저만의 작은 공간처럼요. 이게 대충 제가 사는 곳의 모습이에요.
 
 So, um, I live alone in a small apartment, but it's actually really cozy. [a: Intro / b: filler "um"]
@@ -32,7 +39,15 @@ Overall, it's small, but it feels really warm and comfortable, like my own littl
 
 ## Q2. "Which room do you like the most, and why?"
 
-**한글 해석**
+**🗣️ 한글 드릴 (5~6문장, 매인포인트 1개 — 이걸 먼저 한글로 말하고 영어로 통역 연습)**
+1. 제가 제일 좋아하는 공간은 침실이에요.
+2. 침대에 눕는 걸 너무 좋아해서 그런 것 같아요.
+3. 누워서 공부도 하고, TV도 보고, 거의 다 침대에서 해요.
+4. 밖에 있다가도 집에 가면 제일 먼저 침대에 눕고 싶어져요.
+5. 밤에 무드등 켜고 누워있으면 진짜 아늑한 느낌이 들어요.
+6. 그래서 침실이 저한테는 제일 좋아하는 공간이에요.
+
+**한글 해석 (전체 번역)**
 음, 저한테 물어보신다면, 제가 제일 좋아하는 방은 당연히 침실이에요. 왜인지 아세요? 제 침대 때문이에요. 저는 그냥, 그, 눕는 걸 너무 좋아해요. 누워서 공부도 할 수 있고, 음, 누워서 TV도 볼 수 있고, 진짜 뭐든 누워서 할 수 있어요. 그리고 솔직히, 밖에 있을 때마다 항상 집에 가서 그냥 침대에 눕고 싶다는 생각이 들어요. 그리고 음, 특히 밤에 무드등 켜고, 그, 침대에 누워있으면 진짜 아늑한 느낌이 들어요. 제 침대는 진짜 부드럽고, 그, 사실 꽤 커서, 저만의 작은 세상 같은 느낌이에요. 그래서 침실이 제 아파트에서 제일 좋아하는 곳이에요.
 
 Um, if you ask me, my favorite room is definitely my bedroom. [a: Main Point / b: filler "um"]
@@ -51,7 +66,14 @@ So, that's why my bedroom is my favorite place in my apartment. [a: Conclusion /
 
 ## Q2.5 (보너스) — 기억에 남는 사소한 에피소드 (Past Experience 대비)
 
-**한글 해석**
+**🗣️ 한글 드릴 (5~6문장, 매인포인트 1개 — 이걸 먼저 한글로 말하고 영어로 통역 연습)**
+1. 제 집에 딱 하나 단점이 있다면 옆집 소음이에요.
+2. 가끔 이웃이 갑자기 엄청 크게 노래를 불러요.
+3. 한번은 자려고 누웠는데 벽 너머로 그 노랫소리가 들렸어요.
+4. 그때는 좀 웃기기도 하고 짜증나기도 했어요.
+5. 근데 그거 말고는 제 집이 거의 완벽한 것 같아요.
+
+**한글 해석 (전체 번역)**
 아, 사실 작은 단점이 하나 있는데 — 음, 가끔 옆집 이웃이 진짜 갑자기, 그, 엄청 크게 노래를 불러요. 어느 날 밤 막 잠들려고 하는데, 그, 벽 너머로 그 갑작스러운 노랫소리가 들렸던 게 기억나요. 그때는 좀 웃기면서도 꽤 짜증났어요. 근데 솔직히, 그거 빼고는 제 집이 거의 완벽해요.
 
 Oh, actually, there's one small downside — um, sometimes my neighbor next door sings really loudly, like, out of nowhere. [b: filler "um", "like"]
@@ -66,7 +88,14 @@ But honestly, other than that, my place is pretty much perfect. [a: Conclusion /
 
 ## Q3. "How has your home changed compared to before? / Is it different from where you used to live?"
 
-**한글 해석**
+**🗣️ 한글 드릴 (5~6문장, 매인포인트 1개 — 이걸 먼저 한글로 말하고 영어로 통역 연습)**
+1. 예전에 살던 집은 침대도 냉장고도 다 작았어요.
+2. 그래서 그때는 집에 오래 있는 걸 별로 안 좋아했어요.
+3. 근데 요즘은 침대도 냉장고도 더 커져서 훨씬 편해졌어요.
+4. 그러다 보니 이제는 그냥 집에서 뒹굴고 싶어져요.
+5. 그래서 요즘은 완전히 집순이가 된 것 같아요.
+
+**한글 해석 (전체 번역)**
 그, 음, 예전엔 제가 살던 곳이 진짜 작았어요 — 침대도 작고, 냉장고도 작고, 전부 다 그냥 작았어요. 그래서, 그, 그것 때문에 사실 집에 오래 있는 걸 별로 안 좋아했어요. 그냥 최대한 많이 밖으로 나가려고 했어요. 근데, 솔직히, 요즘은 완전히 달라요 — 지금은 냉장고도 더 크고 침대도 더 커서, 훨씬 더 편해요. 음, 진짜 그냥 집에서 뒹굴거리면서 아무것도 안 하고 싶어요. 아무튼, 이제 완전 집순이가 된 것 같아요.
 
 So, um, in the past, my place was actually really small — like, my bed was small, my fridge was small, everything was just tiny. [a: Past / b: filler "um", "like", "just"]
