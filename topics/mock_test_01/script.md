@@ -304,16 +304,18 @@ Restaurants in Korea have been changing a lot. Before, a lot of food was made to
 2. 스타벅스나 서브웨이 같은 데를 자주 가요.
 3. 어제도 스타벅스에서 샌드위치랑 아메리카노를 먹었어요.
 4. 맛있긴 한데 그냥 흔한 맛이에요.
-5. 근데 제가 제일 좋아하는 샌드위치 가게는 되게 독특해요.
+5. 근데 제가 제일 좋아하는 샌드위치 가게는 "빈카이브"라는 곳인데 되게 독특해요.
 6. 시그니처 메뉴가 세상에 하나뿐인 조합이에요.
 
 **한글 해석 (전체 번역)**
-저는 사실 체인 식당을 꽤 좋아해요. 스타벅스나 서브웨이 같은 곳을 자주 가요. 어제도 스타벅스 가서 샌드위치랑 아메리카노를 먹었는데, 맛있긴 한데 그냥 흔한 맛이에요, 그냥 예상할 수 있는 맛이랄까요. 근데 제가 제일 좋아하는 샌드위치 가게는 로컬 식당인데, 지금 이름이 기억이 안 나네요, ㅋㅋ, 죄송해요. 거기 샌드위치가 진짜 맛있는데, 시그니처 메뉴가 무화과·유자폰즈·잠봉뵈르 샌드위치예요 — 세상에 이거 하나뿐인 조합이라서, 제가 제일 좋아하는 샌드위치예요.
+저는 사실 체인 식당을 꽤 좋아해요. 스타벅스나 서브웨이 같은 곳을 자주 가요. 어제도 스타벅스 가서 샌드위치랑 아메리카노를 먹었는데, 맛있긴 한데 그냥 흔한 맛이에요, 그냥 예상할 수 있는 맛이랄까요. 근데 제가 제일 좋아하는 샌드위치 가게는 빈카이브라는 로컬 식당이에요. 거기 샌드위치가 진짜 맛있는데, 시그니처 메뉴가 무화과·유자폰즈·잠봉뵈르 샌드위치예요 — 세상에 이거 하나뿐인 조합이라서, 제가 제일 좋아하는 샌드위치예요.
 
 **영어 스크립트**
-I actually really like chain restaurants. I usually go to places like Starbucks or Subway. Yesterday, I went to Starbucks and had a sandwich with an Americano — it was good, but honestly it's kind of a common taste, you know, pretty much what you'd expect. But my favorite sandwich place is actually this really unique local restaurant. I totally forget the name right now, haha, sorry about that. But their sandwiches are amazing, and their signature menu is this fig, yuzu-ponzu, and jambon beurre sandwich — it's honestly the only one like that in the world, and it's my favorite sandwich ever.
+I actually really like chain restaurants. I usually go to places like Starbucks or Subway. Yesterday, I went to Starbucks and had a sandwich with an Americano — it was good, but honestly it's kind of a common taste, you know, pretty much what you'd expect. But my favorite sandwich place is actually this really unique local restaurant called Bean Cave. Their sandwiches are amazing, and their signature menu is this fig, yuzu-ponzu, and jambon beurre sandwich — it's honestly the only one like that in the world, and it's my favorite sandwich ever.
 
-✅ 체인(흔하지만 편함) vs 로컬(독특한 시그니처 메뉴) 대조가 질문 의도에 정확히 맞음. "common taste"(흔한 맛)라는 솔직한 평가 + 로컬 가게의 특별함을 대비시킨 구조가 좋음. 가게 이름이 기억 안 나는 것도 "forget the name, haha, sorry"로 자연스럽게 넘어가는 게 오히려 즉흥스럽고 리얼하게 들림
+✅ 체인(흔하지만 편함) vs 로컬(독특한 시그니처 메뉴) 대조가 질문 의도에 정확히 맞음. "common taste"(흔한 맛)라는 솔직한 평가 + 로컬 가게의 특별함을 대비시킨 구조가 좋음. 식당 이름(Bean Cave)까지 들어가서 완전히 구체적인 실제 경험처럼 들림
+
+⚠️ 참고: "빈카이브"의 영어 표기가 "Bean Cave"가 맞는지 확실치 않으면 실제 간판/영수증 표기로 확인해서 바꿔주세요 — 추측한 표기입니다.
 
 ---
 
