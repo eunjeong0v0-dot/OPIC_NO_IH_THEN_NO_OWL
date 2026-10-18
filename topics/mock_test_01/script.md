@@ -33,10 +33,10 @@
 **Q.** What do you usually do at home? How does your routine differ on weekdays compared to weekends? Tell me about your typical day.
 **한글 뜻.** 집에서 주로 무엇을 하나요? 주중과 주말의 일상은 어떻게 다른가요? 평소 하루 일과에 대해 말해 주세요.
 
-**A.** On weekdays, I wake up at 7 a.m. and drink a glass of water, then I have to drink coffee too. After that, I usually go to Starbucks and study English for a while — that's actually a big difference from my weekends. On weekends I basically just sleep all day and rest, kind of like a bear hibernating in winter, haha. Waking up early makes me so tired, so I really need that caffeine. I think going to Starbucks to study English in the morning is honestly the biggest part of my weekday routine.
-**한글 뜻.** 평일에는 아침 7시에 일어나서 물 한 잔을 마셔요. 그리고 커피도 꼭 마셔야 해요. 그다음엔 스타벅스에 가서 영어 공부를 해요 — 이게 사실 주말이랑 제일 큰 차이예요. 주말엔 그냥 하루 종일 자고 쉬어요, 겨울잠 자는 곰처럼요, ㅋㅋ. 일찍 일어나는 게 너무 힘들어서 커피가 꼭 필요해요. 그래서 평일 아침에 스타벅스에서 커피 마시고 영어 공부하는 게 제일 큰 루틴인 것 같아요.
+**A.** On weekdays, I wake up at 7 a.m. and drink a cup of water, and I have to drink coffee too. On weekdays, I go study English early, but on weekends, I only sleep all day and rest, like a bear hibernating in winter. Waking up early makes me so tired, so I need that caffeine to get through it. Overall, that's basically my routine — studying early on weekdays, and just sleeping all day on weekends.
+**한글 뜻.** 평일에는 아침 7시에 일어나서 물 한 잔을 마시고, 커피도 꼭 마셔야 해요. 평일엔 일찍 영어 공부를 하러 가는데, 주말엔 그냥 하루 종일 자고 쉬어요, 겨울잠 자는 곰처럼요. 일찍 일어나는 게 너무 힘들어서 그걸 버티려면 커피가 꼭 필요해요. 전체적으로, 이게 제 루틴이에요 — 평일엔 일찍 공부하고, 주말엔 그냥 하루 종일 자는 거요.
 
-🎯 메인포인트: 평일엔 일찍 일어나 커피 마시고 스타벅스 가서 영어 공부하고, 주말엔 하루 종일 잠
+🎯 메인포인트: 평일엔 일찍 일어나 공부하고, 주말엔 하루 종일 잠 (커피는 "일찍 일어나는 걸 버티는" 디테일)
 
 ---
 
