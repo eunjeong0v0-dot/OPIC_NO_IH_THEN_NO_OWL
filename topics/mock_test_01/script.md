@@ -53,23 +53,23 @@ So, my home is a small apartment. It has one bedroom, one living room combined w
 
 ## Q3. "What do you usually do at home? How does your routine differ on weekdays compared to weekends? Tell me about your typical day."
 
-🎯 메인포인트: 평일엔 일찍 일어나 커피 마시고 공부하러 나가고, 주말엔 하루 종일 잠
+🎯 메인포인트: 평일엔 일찍 일어나 커피 마시고 스타벅스 가서 영어 공부하고, 주말엔 하루 종일 잠
 
 **🗣️ 한글 드릴 (5~6문장, 매인포인트 1개)**
 1. 평일엔 아침 7시에 일어나서 물 한잔 마셔요.
 2. 그리고 커피도 꼭 마셔요.
-3. 평일엔 그다음 공부하러 일찍 나가요.
+3. 그다음 스타벅스에 가서 영어 공부를 해요.
 4. 근데 주말엔 그냥 하루 종일 자고 쉬어요.
 5. 겨울잠 자는 곰처럼요, ㅋㅋ.
 6. 아침에 일찍 일어나는 게 힘들어서 커피가 꼭 필요해요.
 
 **한글 해석 (전체 번역)**
-평일에는 아침 7시에 일어나서 물 한 잔을 마셔요. 그리고 커피도 꼭 마셔야 해요 — 이게 사실 주말이랑 제일 큰 차이예요. 평일엔 그다음에 일찍 공부하러 나가는데, 주말엔 그냥 하루 종일 자고 쉬어요, 겨울잠 자는 곰처럼요, ㅋㅋ. 일찍 일어나는 게 너무 힘들어서 커피가 꼭 필요해요. 그래서 아침에 커피 마시는 게 평일이랑 주말을 가르는 제일 큰 차이인 것 같아요.
+평일에는 아침 7시에 일어나서 물 한 잔을 마셔요. 그리고 커피도 꼭 마셔야 해요. 그다음엔 스타벅스에 가서 영어 공부를 해요 — 이게 사실 주말이랑 제일 큰 차이예요. 주말엔 그냥 하루 종일 자고 쉬어요, 겨울잠 자는 곰처럼요, ㅋㅋ. 일찍 일어나는 게 너무 힘들어서 커피가 꼭 필요해요. 그래서 평일 아침에 스타벅스에서 커피 마시고 영어 공부하는 게 제일 큰 루틴인 것 같아요.
 
 **영어 스크립트**
-On weekdays, I wake up at 7 a.m. and drink a glass of water, then I have to drink coffee too — that's actually a big difference from my weekends. On weekdays I go study early, but on weekends I basically just sleep all day and rest, kind of like a bear hibernating in winter, haha. Waking up early makes me so tired, so I really need that caffeine. I think drinking coffee in the morning is honestly the biggest difference between my weekdays and weekends.
+On weekdays, I wake up at 7 a.m. and drink a glass of water, then I have to drink coffee too. After that, I usually go to Starbucks and study English for a while — that's actually a big difference from my weekends. On weekends I basically just sleep all day and rest, kind of like a bear hibernating in winter, haha. Waking up early makes me so tired, so I really need that caffeine. I think going to Starbucks to study English in the morning is honestly the biggest part of my weekday routine.
 
-⚠️ 교정 포인트: 원래 답변에서 메인포인트가 "평일=공부/주말=잠"이랑 "커피"가 섞여서 헷갈렸음 → 커피를 "평일-주말 차이의 증거"로 재배치해서 하나로 정리함
+⚠️ 교정 포인트: "영어 공부+스타벅스"로 구체화해서 더 생생해짐. 원래 답변에서 메인포인트가 "평일=공부/주말=잠"이랑 "커피"가 섞여서 헷갈렸던 것도 커피를 "평일 루틴의 한 조각"으로 재배치해서 정리함
 
 ---
 
@@ -119,22 +119,23 @@ I love the animation genre, like Toy Story. It has a really interesting story, a
 
 ## Q6. "Tell me about the last time you went to the movies. What did you do before and after the movie?"
 
-🎯 메인포인트: 영화는 항상 배고프게 함(먹는 거 좋아함), 전후에 밥/디저트 먹는 루틴
+🎯 메인포인트: 최근 치이카와 보러 간 날 — 영화는 항상 배고프게 함, 전후에 밥/디저트 먹는 루틴
 
 **🗣️ 한글 드릴 (5~6문장, 매인포인트 1개)**
-1. 영화는 보통 2시간은 넘게 하니까 꼭 배고파져요.
-2. 저는 먹는 걸 되게 좋아하는 편이에요.
-3. 영화 보기 전엔 보통 저녁이나 점심을 먹어요, 시간대에 따라서요.
-4. 영화 끝나고 나서는 친구들이랑 디저트랑 커피를 마셔요.
-5. 그러면서 영화 얘기를 해요.
+1. 최근에 치이카와라는 애니메이션을 봤어요.
+2. 영화는 보통 2시간은 넘게 하니까 꼭 배고파져요.
+3. 저는 먹는 걸 되게 좋아하는 편이에요.
+4. 영화 보기 전엔 보통 저녁이나 점심을 먹어요, 시간대에 따라서요.
+5. 영화 끝나고 나서는 친구들이랑 디저트랑 커피를 마셔요.
+6. 그러면서 영화 얘기를 해요.
 
 **한글 해석 (전체 번역)**
-영화는 보통 최소 2시간이니까, 그게 저를 꼭 배고프게 만들어요, ㅋㅋ. 저는 진짜 먹는 거 좋아하는 편이라서, 꼭 돼지처럼 먹어요, ㅋㅋ. 그래서 영화 보기 전후로 항상 뭔가 먹어요 — 영화 시작 전엔 시간대에 따라 저녁이나 점심을 먹고요. 끝나고 나서는 친구들이랑 디저트랑 커피를 마시면서 영화 얘기를 해요.
+최근에 치이카와라는 애니메이션을 봤어요. 영화는 보통 최소 2시간이니까, 그게 저를 꼭 배고프게 만들어요, ㅋㅋ. 저는 진짜 먹는 거 좋아하는 편이라서, 꼭 돼지처럼 먹어요, ㅋㅋ. 그래서 영화 보기 전후로 항상 뭔가 먹어요 — 영화 시작 전엔 시간대에 따라 저녁이나 점심을 먹고요. 끝나고 나서는 친구들이랑 디저트랑 커피를 마시면서 영화 얘기를 해요.
 
 **영어 스크립트**
-A movie is at least 2 hours long, so it always makes me really hungry, haha. I'm honestly such a big foodie, like, I eat like a pig, haha. I always eat something before and after the movie — before it starts, I usually eat dinner or lunch depending on the time, and after, I get dessert and coffee with my friends and talk about the movie.
+The last movie I went to see was this animated movie called Chiikawa. A movie is at least 2 hours long, so it always makes me really hungry, haha. I'm honestly such a big foodie, like, I eat like a pig, haha. I always eat something before and after the movie — before it starts, I usually eat dinner or lunch depending on the time, and after, I get dessert and coffee with my friends and talk about the movie.
 
-⚠️ 교정 포인트: 원래 "it's very hungry"(X) → "it"(영화)이 배고플 순 없음 → "it **makes me** hungry"
+⚠️ 교정 포인트: 원래 "it's very hungry"(X) → "it"(영화)이 배고플 순 없음 → "it **makes me** hungry". 영화 제목(Chiikawa)을 넣어서 "그냥 습관"이 아니라 "진짜 최근 경험"처럼 들리게 보강 — Q5에서 언급한 같은 영화라 콤보셋 전체 일관성도 좋아짐
 
 ---
 
@@ -260,15 +261,15 @@ Hi Mr. Smith, this is Ocun. I'm really sorry, but my flight's been delayed, so I
 3. 작년에 다낭 여행 갔을 때 호텔에서 요가 수업을 들었어요.
 4. 선생님이 저를 "naughty girl"이라고 불렀어요.
 5. 근데 번역 앱이 그걸 "terrible student"로 번역해버렸어요.
-6. 선생님이 당황해서 "playful girl"이라는 뜻이었다고 설명해줬어요.
+6. 번역기가 이상한 거라고 생각해서 신경 안 쓰고 그냥 웃었어요.
 
 **한글 해석 (전체 번역)**
-저한테 제일 큰 문제는 솔직히 언어 장벽인 것 같아요 — 영어를 잘 못해서 번역 앱을 많이 썼어요, 작년에 친구랑 다낭 여행 갔을 때도요. 호텔에서 요가 수업을 들었는데, 선생님이 저를 "naughty girl"이라고 불렀어요. 근데 그걸 번역했더니 "terrible student"(끔찍한 학생)라고 나온 거예요! 저는 신경 안 쓰고 다 같이 웃었는데, 선생님은 완전 당황해서 사실은 "playful girl"(장난기 많은 애)라는 뜻이었다고 설명해줬어요. 진짜 기억에 남는 경험이었어요.
+저한테 제일 큰 문제는 솔직히 언어 장벽인 것 같아요 — 영어를 잘 못해서 번역 앱을 많이 썼어요, 작년에 친구랑 다낭 여행 갔을 때도요. 호텔에서 요가 수업을 들었는데, 선생님이 저를 "naughty girl"이라고 불렀어요. 근데 그걸 번역했더니 "terrible student"(끔찍한 학생)라고 나온 거예요! 근데 저는 번역기가 뭔가 오역한 거라고 생각해서 신경 안 쓰고 그냥 다 같이 웃었어요. 근데 선생님은 완전 당황해서, 사실은 "playful girl"(장난기 많은 애)라는 뜻이었다고 설명해줬어요. 진짜 기억에 남는 경험이었어요.
 
 **영어 스크립트**
-The biggest problem for me is honestly the language barrier — I'm not great at English, so I used a translator app a lot when I was traveling in Da Nang with my friend last year. I took a yoga class at my hotel, and the teacher called me a "naughty girl." But the translator said "terrible student" instead! I didn't care, we all laughed, but the teacher got so embarrassed — he said he actually meant "playful girl." Such a memorable experience.
+The biggest problem for me is honestly the language barrier — I'm not great at English, so I used a translator app a lot when I was traveling in Da Nang with my friend last year. I took a yoga class at my hotel, and the teacher called me a "naughty girl." But the translator said "terrible student" instead! I just figured there must have been some kind of misunderstanding with the translator, so I didn't really care, and we all just laughed about it. But the teacher got so embarrassed — he said he actually meant "playful girl." Such a memorable experience.
 
-✅✅ 통역 오류 + 다른 사람(선생님) 반응까지 들어간 AL급 에피소드
+✅✅ 통역 오류 + 다른 사람(선생님) 반응까지 들어간 AL급 에피소드. "I just figured there must have been some kind of misunderstanding, so I didn't really care"로 "번역기가 이상한 거겠지 하고 신경 안 씀" 심리가 더 명확해짐
 
 ---
 
