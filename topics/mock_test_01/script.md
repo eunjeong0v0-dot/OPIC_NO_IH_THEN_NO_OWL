@@ -275,23 +275,23 @@ The biggest problem for me is honestly the language barrier — I'm not great at
 
 ## Q14. "Many restaurants are changing their menus to appeal to health-conscious customers. Tell me about some of the changes restaurants are making."
 
-🎯 메인포인트: 식당들이 저당/저칼로리 메뉴를 늘려서 다이어트에 도움됨
+🎯 메인포인트: 비주얼 중심에서 "심플하지만 건강한" 메뉴로 바뀌는 추세 — 오밀도 제로칼로리/제로슈거 음료가 다 있음
 
 **🗣️ 한글 드릴 (5~6문장, 매인포인트 1개)**
 1. 한국 식당들이 요즘 많이 바뀌고 있어요.
-2. 예전엔 설탕/칼로리 많은 음식이 많았어요.
-3. 요즘은 저당/저칼로리 메뉴가 훨씬 많아졌어요.
+2. 예전엔 비주얼이 예뻐서 사람들이 사진 찍는 음식이 많았어요.
+3. 요즘은 더 심플하지만 건강한 메뉴가 많아졌어요.
 4. 제로슈거 콜라가 이제 거의 모든 식당에 있어요.
-5. 저도 매번 그걸 시켜요.
+5. 심지어 제가 제일 좋아하는 식당 오밀도 음료가 다 제로칼로리예요.
 6. 제 다이어트에 되게 도움이 돼서 좋아요.
 
 **한글 해석 (전체 번역)**
-한국 식당들이 요즘 많이 바뀌고 있어요. 예전엔 설탕이랑 칼로리 많은 음식이 많았는데, 요즘은 저당/저칼로리 메뉴가 훨씬 많아졌어요. 예를 들면 제로슈거 콜라가 이제 거의 모든 식당에 필수로 있고, 저도 매번 그걸 시켜요. 예전엔 제로칼로리 음료 자체가 없는 식당도 있었어요. 그래서 이게 제 다이어트에 되게 도움이 되고, 저는 꽤 만족스러워요.
+한국 식당들이 요즘 많이 바뀌고 있어요. 예전엔 비주얼이 예뻐서 사람들이 사진을 찍는 음식이 많았는데, 사실 그렇게 건강한 건 아니었어요. 근데 요즘은 더 심플하지만 건강한 저당/저칼로리 메뉴가 훨씬 많아졌어요. 예를 들면 제로슈거 콜라가 이제 거의 모든 식당에 필수로 있고, 저도 매번 그걸 시켜요. 심지어 제가 제일 좋아하는 식당 오밀도 음료가 전부 제로칼로리, 제로슈거예요! 예전엔 제로칼로리 음료 자체가 없는 식당도 있었어요. 그래서 이게 제 다이어트에 되게 도움이 되고, 저는 꽤 만족스러워요.
 
 **영어 스크립트**
-Restaurants in Korea have been changing a lot. Before, there was a lot of food with tons of sugar and calories, but these days there are way more low-sugar, low-calorie options. For example, zero-sugar coke is basically a must at every restaurant now, and I order it every time. Before, some restaurants didn't even have zero-calorie drinks. It's really helpful for my diet, and I'm pretty happy about it.
+Restaurants in Korea have been changing a lot. Before, a lot of food was made to look really beautiful and photogenic, so people would just take pictures of it, but it wasn't that healthy. These days, though, there are way more low-sugar, low-calorie options — they're simpler, but healthier. For example, zero-sugar coke is basically a must at every restaurant now, and I order it every time. Even my favorite restaurant, Omil, has all kinds of zero-calorie and zero-sugar drinks! Before, some restaurants didn't even have zero-calorie drinks at all. It's really helpful for my diet, and I'm pretty happy about it.
 
-✅ Q1(음식 관심)이랑 자연스럽게 연결되는 다이어트 테마 — 콤보셋 일관성 좋음
+✅ Q1(음식 관심)·Q15(오밀)랑 자연스럽게 연결되는 다이어트 테마 — 콤보셋 전체 일관성이 훨씬 좋아짐. "비주얼용 음식 → 심플하지만 건강한 음식"으로 변화의 대조(before/now)도 명확해짐
 
 ---
 
@@ -318,6 +318,6 @@ My favorite restaurant is a local place near my house called Omil — a Korean f
 
 ## 진행 상황 체크리스트
 - [x] 15문항 전체 실제 구술 답변 완료 (2026-10-18) — 교정 완료
-- [x] Q1~Q14 전부 완성 (Q7은 전략대로 "모르는 뉴스" 대응 잘함, Q8은 1-2-3 이유 구조 AL급)
+- [x] Q1~Q14 전부 완성 (Q7은 전략대로 "모르는 뉴스" 대응 잘함, Q8은 1-2-3 이유 구조 AL급, Q14는 "비주얼→심플건강식" 대조 + 오밀 연결로 보강)
 - [ ] Q15만 체인 식당 경험 추가 필요
 - [ ] 공통 반복 교정 포인트: ① "yeah" 재발 금지 ② 관사(a/an) 빠짐 주의 ③ "look forward to + 동명사" 패턴 ④ "I will [동사]"에서 be 빠뜨리지 않기
