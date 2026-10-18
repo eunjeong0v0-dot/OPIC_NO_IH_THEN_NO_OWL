@@ -297,22 +297,23 @@ Restaurants in Korea have been changing a lot. Before, a lot of food was made to
 
 ## Q15. "Tell me about your experience at a chain restaurant and a local independent restaurant."
 
-🎯 메인포인트: 집 근처 오밀(한식 퓨전 식당) 좋아함 — ⚠️ 체인 식당 부분 아직 없음
+🎯 메인포인트: 체인(스타벅스)은 편하지만 흔한 맛, 로컬 샌드위치집은 세상에 하나뿐인 시그니처 메뉴로 특별함
 
-**🗣️ 한글 드릴 (5~6문장, 매인포인트 1개 — 개인식당 파트만 완성됨)**
-1. 제가 제일 좋아하는 식당은 집 근처에 있는 오밀이라는 곳이에요.
-2. 한식 퓨전 레스토랑이에요.
-3. 분위기가 되게 아늑하고 편안해요.
-4. 음식이 동물 모양으로 예쁘게 나와요.
-5. 오므라이스랑 김치찌개가 진짜 맛있어요.
+**🗣️ 한글 드릴 (5~6문장, 매인포인트 1개)**
+1. 저는 사실 체인 식당을 꽤 좋아해요.
+2. 스타벅스나 서브웨이 같은 데를 자주 가요.
+3. 어제도 스타벅스에서 샌드위치랑 아메리카노를 먹었어요.
+4. 맛있긴 한데 그냥 흔한 맛이에요.
+5. 근데 제가 제일 좋아하는 샌드위치 가게는 되게 독특해요.
+6. 시그니처 메뉴가 세상에 하나뿐인 조합이에요.
 
 **한글 해석 (전체 번역)**
-제가 제일 좋아하는 식당은 집 근처에 있는 오밀이라는 한식 퓨전 레스토랑이에요. 분위기가 되게 아늑하고 편안해요. 음식들이 동물 모양으로 예쁘게 나오는 것도 좋아하는 포인트예요. 김치찌개를 곁들인 오므라이스가 진짜 맛있어요.
+저는 사실 체인 식당을 꽤 좋아해요. 스타벅스나 서브웨이 같은 곳을 자주 가요. 어제도 스타벅스 가서 샌드위치랑 아메리카노를 먹었는데, 맛있긴 한데 그냥 흔한 맛이에요, 그냥 예상할 수 있는 맛이랄까요. 근데 제가 제일 좋아하는 샌드위치 가게는 로컬 식당인데, 지금 이름이 기억이 안 나네요, ㅋㅋ, 죄송해요. 거기 샌드위치가 진짜 맛있는데, 시그니처 메뉴가 무화과·유자폰즈·잠봉뵈르 샌드위치예요 — 세상에 이거 하나뿐인 조합이라서, 제가 제일 좋아하는 샌드위치예요.
 
 **영어 스크립트**
-My favorite restaurant is a local place near my house called Omil — a Korean fusion restaurant with a really cozy atmosphere. Some dishes are plated to look like little animal shapes, and they have this omurice with kimchi stew that's really delicious too.
+I actually really like chain restaurants. I usually go to places like Starbucks or Subway. Yesterday, I went to Starbucks and had a sandwich with an Americano — it was good, but honestly it's kind of a common taste, you know, pretty much what you'd expect. But my favorite sandwich place is actually this really unique local restaurant. I totally forget the name right now, haha, sorry about that. But their sandwiches are amazing, and their signature menu is this fig, yuzu-ponzu, and jambon beurre sandwich — it's honestly the only one like that in the world, and it's my favorite sandwich ever.
 
-**⚠️ 미완성: 질문은 체인 식당 + 개인 식당 둘 다 요구하는데 체인 식당 얘기가 빠졌음.** 스타벅스/맥도날드 등 자주 가는 체인 식당 하나 떠올려서 "거긴 뭘 기대할지 알아서 편함" vs "오밀은 독특해서 좋음" 식으로 비교 추가 필요 — 정보 주시면 완성
+✅ 체인(흔하지만 편함) vs 로컬(독특한 시그니처 메뉴) 대조가 질문 의도에 정확히 맞음. "common taste"(흔한 맛)라는 솔직한 평가 + 로컬 가게의 특별함을 대비시킨 구조가 좋음. 가게 이름이 기억 안 나는 것도 "forget the name, haha, sorry"로 자연스럽게 넘어가는 게 오히려 즉흥스럽고 리얼하게 들림
 
 ---
 
