@@ -2,6 +2,26 @@
 
 주제별로 자주 쓰는 표현, 문형, 어휘를 여기에 정리합니다.
 
+## 🚨 시험 직전 체크리스트 (2026-10-25, 모의고사 세트 1 연습 기반 정리)
+
+**필러**: um, you know, I mean, like, oh, honestly, so, anyway, overall (🚫 uh·yeah 금지)
+**오프너(매번 다르게)**: Oh, / So, / Honestly, / Well, / Anyway, / Actually,
+**클로징(매번 다르게)**: That's about it. / Anyway, that's pretty much it. / Overall, that's it. / So, that's basically it.
+**연결어**: and so, I mean, but honestly, the thing is
+
+### 모의고사에서 반복됐던 본인 실수 패턴 — 꼭 체크
+1. **"A is 형용사" 주어 실수** — 행동/상황이 주어면 "makes me + 형용사"를 써야 함. "it is hungry"(X)→"it **makes me** hungry", "waking up is tired"(X)→"waking up **makes me** tired"
+2. **look forward to + 동명사**: "look forward to eat"(X)→"look forward to **eating**"
+3. **need + to동사**: "need drinking"(X)→"need **to drink**"
+4. **관사(a/an) 빠짐**: "a Korean name", "an Olympic festival" / 숫자 앞에 "a" 중복 안 됨("a one bedroom" X)
+5. **전치사**: "do my best **on** this test" (to가 아니라 on)
+
+### 15번 돌발(모르는 주제) 대응 틀 (요약)
+반응(2~3초) → "Let me think..." → **"I have no idea about ~"** → 필요시 **"let alone"** → 아는 선에서 habit으로 마무리 (자세한 내용은 아래 "15번 뉴스 기반 질문 대응 전략" 참고)
+
+### 화이트 라이 복귀 신호
+디테일 얘기하다가 **"Overall,"**로 메인포인트 복귀 (자세한 내용은 아래 "화이트 라이 전략" 참고)
+
 ## 답변 전략 (친구가 공유해준 AL 스크립트 필기노트 기반, 2026-09-24 참고자료 반영)
 ※ 오순 님이 AL 받은 친구분에게 받은 실전 필기노트(오픽노잼 스타일로 학습한 자료)를 근거로 정리함.
 ※ 원본 파일: `/root/.claude/uploads/.../06d384fe-_____AL_________.docx` (세션 업로드, 저장소에는 미포함)
